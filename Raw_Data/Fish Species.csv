@@ -1,0 +1,101 @@
+Species Code,Rockfish,Common Name,Genus,Species
+ANC,FALSE,Northern Anchovy,Engraulis,mordax
+BAR,FALSE,Pacific Barracuda,Sphyraena,argentea
+BAY,TRUE,Black-and-Yellow Rockfish,Sebastes,chrysomelas
+BCO,TRUE,Bocaccio,Sebastes,paucispinis
+BID,TRUE,UnID Blue Rockfish,Sebastes,mystinus
+BLA,TRUE,Black Rockfish,Sebastes,melanops
+BLM,FALSE,Blacksmith,Chromis,punctipinnis
+BLU,TRUE,Blue Rockfish,Sebastes,mystinus
+BMS,FALSE,Bigmouth Sole,Hippoglossina,stomata
+BSB,FALSE,Barred Sand Bass,Paralabrax,nebulifer
+BSK,FALSE,Big Skate,Beringraja,binoculata
+BSP,FALSE,Black Seaperch,Embiotoca,jacksoni
+BUF,FALSE,Buffalo Sculpin,Enophrys,bison
+BUS,FALSE,Bull Sculpin,Enophrys,taurina
+BWN,TRUE,Brown Rockfish,Sebastes,auriculatus
+CAL,TRUE,Calico Rockfish,Sebastes,dalli
+CBZ,FALSE,Cabezon,Scorpaenichthys,marmoratus
+CHN,TRUE,China Rockfish,Sebastes,nebulosus
+CHP,TRUE,Chilipepper Rockfish,Sebastes,goodei
+CNY,TRUE,Canary Rockfish,Sebastes,pinniger
+CPR,TRUE,Copper Rockfish,Sebastes,caurinus
+CSA,FALSE,Chinook Salmon,Oncorhynchus,tshawytscha
+CSC,FALSE,California Scorpionfish,Scorpaena,guttata
+DEA,TRUE,Deacon Rockfish,Sebastes,diaconus
+FAN,FALSE,Fantail Sole,Xystreurys,liolepis
+FRK,TRUE,Freckled Rockfish,Sebastes,lentiginosus
+FST,FALSE,Finescale Triggerfish,Balistes,polylepis
+GAR,FALSE,Garibaldi,Hypsypops,rubicundus
+GPR,TRUE,Gopher Rockfish,Sebastes,carnatus
+GRS,TRUE,Grass Rockfish,Sebastes,rastrelliger
+GSB,FALSE,Giant Sea Bass,Stereolepis,gigas
+HAL,FALSE,California Halibut,Paralichthys,californicus
+HCR,TRUE,Honeycomb Rockfish,Sebastes,umbrosus
+HLF,FALSE,Halfmoon,Medialuna,californiensis
+JMK,FALSE,Jack Mackerel,Trachurus,symmetricus
+JSM,FALSE,Jack Smelt,Atherinopsis,californiensis
+KGL,FALSE,Kelp Greenling,Hexagrammos,decagrammus
+KLP,TRUE,Kelp Rockfish,Sebastes,atrovirens
+KPB,FALSE,Kelp Bass,Paralabrax,clathratus
+LCD,FALSE,Lingcod,Ophiodon,elongatus
+LEZ,FALSE,California Lizardfish,Synodus,lucioceps
+LSD,FALSE,Longfin Sanddab,Citharichthys,xanthostigma
+MKL,FALSE,Mackerel (Family Scombridae),,
+NBL,TRUE,Northern Blue Rockfish,Sebastes,spp.
+OLV,TRUE,Olive Rockfish,Sebastes,serranoides
+OPL,FALSE,Opaleye,Girella,nigricans
+OYT,TRUE,Olive or Yellowtail Rockfish,Sebastes,serranoides or flavidus
+PBO,FALSE,Pacific Bonito,Sarda,chiliensis
+PGL,FALSE,Painted Greenling,Oxylebius,pictus
+PHL,FALSE,Pacific Halibut,Hippoglossus,stenolepis
+PLP,FALSE,Pile Perch,Rhacochilus,vacca
+PMK,FALSE,Pacific  (Chub) Mackerel,Scomber,japonicus
+PSD,FALSE,Pacific Sanddab,Citharichthys,sordidus
+PSL,FALSE,Petrale Sole,Eopsetta,jordani
+PSR,FALSE,Pelagic Stingray,Pteroplatytrygon,violacea
+QBK,TRUE,Quillback Rockfish,Sebastes,maliger
+RAY,FALSE,Bat Ray,Myliobatis,californica
+RGL,FALSE,Rock Greenling,Hexagrammos,lagocephalus
+RLS,FALSE,Rubberlip Seaperch,Rhacochilus,toxotes
+RSL,FALSE,Rock Sole,Lepidopsetta,bilineata
+RSP,FALSE,Rainbow Seaperch,Hypsurus,caryi
+RSY,TRUE,Rosy Rockfish,Sebastes,rosaceus
+RWS,FALSE,Rock Wrasse,Halichoeres,semicinctus
+SAL,FALSE,Salema,Xenistius,californiensis
+SDB,FALSE,Sanddab spp.,Citharichthys,spp.
+SDF,FALSE,Spiny Dogfish,Squalus,acanthias
+SEN,FALSE,Senorita,Oxyjulis,californica
+SHP,FALSE,California Sheephead,Semicossyphus,pulcher
+SHS,FALSE,Scalyhead Sculpin,Artedius,harringtoni
+SLV,FALSE,Silver Salmon,Oncorhynchus,kisutch
+SMT,FALSE,Silversides (Family Atherinopsidae),,
+SPF,FALSE,Soupfin Shark,Galeorhinus,galeus
+SQR,TRUE,Squarespot Rockfish,Sebastes,hopkinsi
+SRC,FALSE,Sarcastic Fringehead,Neoclinus,blanchardi
+SRD,FALSE,Pacific Sardine,Sardinops,sagax
+SRG,FALSE,Sargo,Anisotremus,davidsonii
+SRP,FALSE,Sharpnose Surfperch,Phanerodon,atripes
+SRY,TRUE,Starry Rockfish,Sebastes,constellatus
+SSD,FALSE,Speckled Sanddab,Citharichthys,stigmaeus
+SSL,FALSE,Sand Sole,Psettichthys,melanostictus
+SSP,FALSE,Striped Seaperch,Embiotoca,lateralis
+STS,FALSE,Starry Skate,Beringraja,stellulata
+SUN,FALSE,Ocean Sunfish,Mola,mola
+THR,FALSE,Common Thresher Shark,Alopias,vulpinus
+TIG,TRUE,Tiger Rockfish,Sebastes,nigrocinctus
+TRE,TRUE,Treefish,Sebastes,serriceps
+TSM,FALSE,Top smelt,Atherinops,affinis
+TUB,FALSE,Tubesnout,Aulorhynchus,flavidus
+UKR,TRUE,Unknown rockfish,Sebastes,
+UNK,FALSE,Unknown,,
+VER,TRUE,Vermilion Rockfish,Sebastes,miniatus
+WCR,FALSE,White Croaker,Genyonemus,lineatus
+WHT,FALSE,Ocean Whitefish,Caulolatilus,princeps
+WID,TRUE,Widow Rockfish,Sebastes,entomelas
+WLF,FALSE,Wolf Eel,Anarrhichthys,ocellatus
+WSB,FALSE,White Seabass,Atractoscion,nobilis
+YFC,FALSE,Yellowfin Croaker,Umbrina,roncador
+YLE,TRUE,Yelloweye Rockfish,Sebastes,ruberrimus
+YTJ,FALSE,Yellowtail Jack,Seriola,lalandi
+YTL,TRUE,Yellowtail Rockfish,Sebastes,flavidus
