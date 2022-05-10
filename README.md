@@ -19,19 +19,6 @@ Data: Raw data tables from CCFRP Access Database (2007-2021) used to create deri
 
 	CCFRP_Biomass_Conversion_20220206.csv - Provides length-weight and length-length conversion information for biomass calculations;
 
-CCFRP Database Information:
-
-Publish Date: February 1, 2021
-
-Data Format: The database was created in Microsoft Office Access 2003 & updated to v2010 in February 2014.
-
-Time Standard: Pacific Standard Time
-
-Time Period: August 6, 2007 – November 17, 2021
-
-Status: The database and metadata are complete
-
-Updates: The database and metadata will be updated with each additional year of data
 
 Access Restrictions: Contact Scott Hamilton (scott.hamilton@sjsu.edu) and Benjamin Ruttenberg (bruttenb@calpoly.edu) before these data are used for publication.
 
