@@ -1,7 +1,7 @@
 ---
 title: "CCFRP Derived Data Table Code for Length and Effort Data"
 author: "Rachel Brooks, Shelby Zeigler, Ryan Fields"
-date: "05/09/2022"
+date: "05/11/2022"
 output:
   pdf_document: default
   html_document: default
@@ -26,12 +26,12 @@ library(ggridges)               #length histograms
 
 ```
 
-Load 'Raw' formats of the tables. These are .csv versions of the Access database 
-tables. These are exactly as they are exported from Access - i.e.  Column names 
-are not changed until it gets to R. The following .csv data tables used for 
-analysis can be accessed through the CCFRP GIT HUB:
+Load 'Raw' formats of the tables. These are .csv versions of the CCFRP Access 
+database  tables. These are exactly as they are exported from Access - i.e.  
+Column names are not changed until it gets to R. The following .csv data tables
+used for analysis can be accessed through the CCFRP GIT HUB:
 
-CCFRP GIT HUB LINK HERE
+https://github.com/ccfrp/DataONE-Derived-Data-Table-Code
 
 Use the raw drift data to merge fields with the 'Caught Fishes' table. This 
 allows us to see all fish ever caught, even those excluded from CPUE 
@@ -40,24 +40,24 @@ calculations.
 ```{r}
 
 #1-Trip Information table
-trip.data.raw = read.csv("CSV_Files/1-Trip Information.csv")
+trip.data.raw = read.csv("Raw_Data/1-Trip Information.csv")
 
 #3-Drift Information Table
 #Included bit to make any blanks change to 'NA'
-drift.data.raw = read.csv("CSV_Files/3-Drift Information.csv", na = c("", "NA")) 
+drift.data.raw = read.csv("Raw_Data/3-Drift Information.csv", na = c("", "NA")) 
 
 #4-Caught Fishes Table
-fishes.caught.raw = read.csv("CSV_Files/4-Caught Fishes.csv")
+fishes.caught.raw = read.csv("Raw_Data/4-Caught Fishes.csv")
 
 
 #Fish codes to match species code with common name
-fish.codes = read.csv("CSV_Files/Fish Species.csv")
+fish.codes = read.csv("Raw_Data/Fish Species.csv")
 
 #Length weight relationships
-length.weight = read.csv("CSV_Files/CCFRP_Biomass_Conversion_20220206.csv")
+length.weight = read.csv("Raw_Data/CCFRP_Biomass_Conversion_20220206.csv")
 
 #OPC MPA Designation Info
-CCFRP_location_table <- read.csv("CSV_Files/CCFRP_location_table.csv")
+CCFRP_location_table <- read.csv("Raw_Data/CCFRP_location_table.csv")
 
 ```
 
@@ -491,7 +491,7 @@ We will create a column that combines both 'ID_cell_per_Trip' and
 
 #Rename data frames for merging purposes and create column for merging
 
-#BPUE
+#CPUE
 CPUEmerge <- CPUE_long_format_reorder%>%
   group_by(LTM_project_short_code, Monitoring_Group,
            CA_MPA_name_short, Area, Site, Date, Year, Month, Day,
@@ -499,7 +499,7 @@ CPUEmerge <- CPUE_long_format_reorder%>%
 CPUEmerge$combo<- paste(CPUEmerge$ID_Cell_per_Trip,CPUEmerge$
                                         Common_Name, sep=".")
 
-#CPUE
+#BPUE
 BPUEmerge <- BPUE_long_format_reorder
 BPUEmerge$combo<- paste(BPUEmerge$ID_Cell_per_Trip,
                         BPUEmerge$Common_Name, sep=".")
