@@ -50,7 +50,7 @@ drift.data.raw = read.csv("Raw_Data/3-Drift Information.csv", na = c("", "NA"))
 fishes.caught.raw = read.csv("Raw_Data/4-Caught Fishes.csv")
 
 
-#Fish codes to match species code with common name
+#Fish codes to match species code with common names
 fish.codes = read.csv("Raw_Data/Fish Species.csv")
 
 #Length weight relationships
