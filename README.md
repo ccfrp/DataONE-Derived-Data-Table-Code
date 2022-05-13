@@ -22,7 +22,7 @@ Repository contains the following:
 
 	- 4-Caught Fishes.csv - Provides information about each fish that was caught during the study and associated data;
 
-	- Fish Species.csv - Provides the fish species codes used in the databaseand their corresponding common and scientific name;
+	- Fish Species.csv - Provides the fish species codes used in the database and their corresponding common and scientific name;
 
 	- CCFRP_location_table.csv - Provides GPS coordinates for all of the 500 m x 500 m grid cells that were created for this study;
 
