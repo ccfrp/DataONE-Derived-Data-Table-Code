@@ -2,7 +2,7 @@
 
 ##### GitHub repository containing data and code accompanying the CCFRP data submission to Ocean Protection Council DataONE Repository (Brooks et al. 2022; https://doi.org/10.25494/P6901R) 
 
-## Full citation here
+##### Full citation here
 
 Contact Person: Rachel Brooks (Email: rachel.brooks@sjsu.edu, Phone: 831.771.4479, Address: 8272 Moss Landing Road, Moss Landing, CA 95039);
 
