@@ -24,6 +24,7 @@ CSA,FALSE,Chinook Salmon,Oncorhynchus,tshawytscha
 CSC,FALSE,California Scorpionfish,Scorpaena,guttata
 DEA,TRUE,Deacon Rockfish,Sebastes,diaconus
 FAN,FALSE,Fantail Sole,Xystreurys,liolepis
+FLG,TRUE,Flag Rockfish,Sebastes,rubrivinctus
 FRK,TRUE,Freckled Rockfish,Sebastes,lentiginosus
 FST,FALSE,Finescale Triggerfish,Balistes,polylepis
 GAR,FALSE,Garibaldi,Hypsypops,rubicundus
@@ -40,6 +41,7 @@ KLP,TRUE,Kelp Rockfish,Sebastes,atrovirens
 KPB,FALSE,Kelp Bass,Paralabrax,clathratus
 LCD,FALSE,Lingcod,Ophiodon,elongatus
 LEZ,FALSE,California Lizardfish,Synodus,lucioceps
+LPS,FALSE,Leopard Shark,Triakis,semifasciata
 LSD,FALSE,Longfin Sanddab,Citharichthys,xanthostigma
 MKL,FALSE,Mackerel (Family Scombridae),,
 NBL,TRUE,Northern Blue Rockfish,Sebastes,spp.
@@ -91,6 +93,7 @@ UKR,TRUE,Unknown rockfish,Sebastes,
 UNK,FALSE,Unknown,,
 VER,TRUE,Vermilion Rockfish,Sebastes,miniatus
 WCR,FALSE,White Croaker,Genyonemus,lineatus
+WHP,FALSE,White Seaperch,Phanerodon,furcatus
 WHT,FALSE,Ocean Whitefish,Caulolatilus,princeps
 WID,TRUE,Widow Rockfish,Sebastes,entomelas
 WLF,FALSE,Wolf Eel,Anarrhichthys,ocellatus
