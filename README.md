@@ -2,9 +2,9 @@
 
 ### GitHub repository containing data and code accompanying the CCFRP data submission to Ocean Protection Council DataONE Repository (Brooks et al. 2022; https://doi.org/10.25494/P6901R) 
 
-#### Rachel Brooks, Shelby Ziegler, Richard Starr, Dean Wendt, Benjamin Ruttenberg, Lyall Bellquist, Jennifer Caselle, Steven Morgan, Timothy Muligan, Brice Semmens, Joseph Tyburczy, Scott Hamilton. 2022. Nearshore Fishes Abundance and Distribution Data, California Collaborative Fisheries Research Program (CCFRP). California Ocean Protection Council Data Repository. urn:uuid:f843f110-e691-4d26-bf12-3854a4b641cd.
+#### Rachel Brooks, Erin Johnston, Shelby Ziegler, Richard Starr, Dean Wendt, Benjamin Ruttenberg, Lyall Bellquist, Jennifer Caselle, Steven Morgan, Timothy Muligan, Brice Semmens, Joseph Tyburczy, Scott Hamilton. 2022. Nearshore Fishes Abundance and Distribution Data, California Collaborative Fisheries Research Program (CCFRP). California Ocean Protection Council Data Repository. urn:uuid:f843f110-e691-4d26-bf12-3854a4b641cd.
 
-Contact Person: Rachel Brooks (Email: rachel.brooks@sjsu.edu, Phone: 831.771.4479, Address: 8272 Moss Landing Road, Moss Landing, CA 95039);
+Contact Person: Rachel Brooks (Email: ejohn122@calpoly.edu, Phone: 805.756.2950, Address: Biological Sciences, 1 Grand Ave., San Luis Obispo, CA 93407);
 
 Access Restrictions: Contact Scott Hamilton (scott.hamilton@sjsu.edu) and Benjamin Ruttenberg (bruttenb@calpoly.edu) before these data are used for publication.
 
