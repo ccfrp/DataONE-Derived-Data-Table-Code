@@ -401,8 +401,8 @@ length.data_reorder$Total.Angler.Hours <- NULL
 length.data_reorder$Species.Code <- NULL
 
 ### Table export for species length data
-write.csv(length.data_reorder, file = "2007-2023_CCFRP_derived_length_table.csv",
-                                                row.names = FALSE)
+#write.csv(length.data_reorder, file = "2007-2023_CCFRP_derived_length_table.csv",
+#                                                row.names = FALSE)
 
 ```
 
@@ -555,7 +555,7 @@ names(AllFishVars)[names(AllFishVars)=="Site"]<-"MPA_Status"
 
 
 #Export out CSV file with fish data prior to adding in environmental data
-write.csv(AllFishVars, "CCFRP_AllFishVariables.csv")
+#write.csv(AllFishVars, "CCFRP_AllFishVariables.csv")
 
 ```
 
@@ -685,7 +685,7 @@ Reorder the columns of the data set and export final csv
 AllCCFRP <- AllCCFRP[,c(1:11,17:24,16,12:15)]
 
 #Export final dataframe out 
-write.csv(AllCCFRP, "2007-2023_CCFRP_derived_effort_table.csv",row.names=FALSE)
+#write.csv(AllCCFRP, "2007-2023_CCFRP_derived_effort_table.csv",row.names=FALSE)
 
 ```
 ---
