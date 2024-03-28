@@ -54,7 +54,7 @@ fishes.caught.raw = read.csv("Raw_Data/4-Caught Fishes.csv")
 fish.codes = read.csv("Raw_Data/Fish Species.csv")
 
 #Length weight relationships
-length.weight = read.csv("Raw_Data/CCFRP_Biomass_Conversion_20220206.csv")
+length.weight = read.csv("Raw_Data/CCFRP_Biomass_Conversion_2024.csv")
 
 #OPC MPA Designation Info
 CCFRP_location_table <- read.csv("Raw_Data/CCFRP_location_table.csv")
@@ -190,12 +190,21 @@ comparisons, but not for CPUE.
 
 ```{r}
 
+## code to deal with FL and TL in mm - E Johnston 3/28/2024
 fishes.caught.all = fishes.caught.raw %>%
  merge(., drift.data.raw, by = intersect('Drift.ID','Drift.ID'), all = F) %>%  
   # 'all = F' excludes drift information for 225 drifts that did not catch fish
  merge(.,fish.codes, by = intersect('Species.Code','Species.Code'), all = F) %>%
   #merge common name; Drop unused Species Codes
-  
+  mutate(Yr = str_sub(Drift.ID, 8, 9),
+         Length..cm. = case_when(
+           Yr == 23 ~ Fork.Length..mm./10,
+           TRUE ~ as.numeric(Length..cm.)),
+         Length..cm. = round(Length..cm., digits = 0))%>%
+  mutate(Length..cm. = case_when(
+    (Yr == 23 & is.na(Length..cm.)) ~ Total.Length..mm./10,
+    TRUE ~ as.numeric(Length..cm.)),
+    Length..cm. = round(Length..cm., digits = 0)) %>%
   select(c(ID.Cell.per.Trip,Drift.ID, Grid.Cell.ID, Excluded.Drift.Comment, 
            Drift.Time..hrs.,Gear.Type, Station..,Species.Code, Common.Name, 
            Length..cm.)) %>%   #Choose columns of interest
@@ -203,6 +212,21 @@ fishes.caught.all = fishes.caught.raw %>%
                 Drift.time.Hrs = Drift.Time..hrs.,
                 Station = Station..,
                 Length.cm = Length..cm.)
+
+## code prior to 2023 season
+# fishes.caught.all = fishes.caught.raw %>%
+#  merge(., drift.data.raw, by = intersect('Drift.ID','Drift.ID'), all = F) %>%  
+#   # 'all = F' excludes drift information for 225 drifts that did not catch fish
+#  merge(.,fish.codes, by = intersect('Species.Code','Species.Code'), all = F) %>%
+#   #merge common name; Drop unused Species Codes
+#   select(c(ID.Cell.per.Trip,Drift.ID, Grid.Cell.ID, Excluded.Drift.Comment, 
+#            Drift.Time..hrs.,Gear.Type, Station..,Species.Code, Common.Name, 
+#            Length..cm.)) %>%   #Choose columns of interest
+#   dplyr::rename(Exclude = Excluded.Drift.Comment,
+#                 Drift.time.Hrs = Drift.Time..hrs.,
+#                 Station = Station..,
+#                 Length.cm = Length..cm.)
+
 
 ```
 
@@ -377,7 +401,7 @@ length.data_reorder$Total.Angler.Hours <- NULL
 length.data_reorder$Species.Code <- NULL
 
 ### Table export for species length data
-write.csv(length.data_reorder, file = "2007-2021_CCFRP_derived_length_table.csv",
+write.csv(length.data_reorder, file = "2007-2023_CCFRP_derived_length_table.csv",
                                                 row.names = FALSE)
 
 ```
@@ -661,7 +685,8 @@ Reorder the columns of the data set and export final csv
 AllCCFRP <- AllCCFRP[,c(1:11,17:24,16,12:15)]
 
 #Export final dataframe out 
-write.csv(AllCCFRP, "2007-2021_CCFRP_derived_effort_table.csv",row.names=FALSE)
+write.csv(AllCCFRP, "2007-2023_CCFRP_derived_effort_table.csv",row.names=FALSE)
 
 ```
 ---
+
