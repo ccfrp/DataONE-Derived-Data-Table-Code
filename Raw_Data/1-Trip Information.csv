@@ -5,31 +5,37 @@ AIT01_19,AI,MPA/REF,September,17,2019,Aloha Spirit,Shawn Stewart,"Pat, Gage",11,
 AIT01_20,AI,MPA/REF,September,08,2020,Aloha Spirit,Pat,"Kelly, Angel",8,"DPR, BAT, SBT","Ignoring data from Angler #3 inAI06, was using wrong hook size"
 AIT01_21,AI,MPA/REF,September,21,2021,Aloha Spirit,Kelly,"Vinnie, Sam",12,"SBT, DPR, BAT",
 AIT01_22,AI,MPA/REF,October,04,2022,Aloha Spirit,Pat,"Angel, Cheyenne, Burt, Rey",14,"DPR, BAT, SBT",
+AIT01_23,AI,MPA/REF,October,03,2023,ALOHA SPIRIT,PAT,"AV, BURT",12,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 AIT02_17,AI,MPA/REF,November,7,2017,Stardust,Dane Johnston,"Larry Spurlock, John Shields, Christian Geisler",12,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",#12 ON AS DANE PART OF DAY
 AIT02_18,AI,MPA/REF,October,29,2018,Aloha Spirit,Shawn Stewart,"Kenny, Gage, Angel",9,"SBT, DPR, BAT",Move cells around: push towards island
 AIT02_19,AI,MPA/REF,September,18,2019,Aloha Spirit,Pat,"Gage, Kelly",10,"SBT, DPR, BAT",
 AIT02_20,AI,MPA/REF,September,10,2020,Aloha Spirit,Pat,"Kelly, Angel, Burt",6,"DPR, BAT, SBT",
 AIT02_21,AI,MPA/REF,September,22,2021,Aloha Spirit,Kelly,"Vinnie, Angel, Bert",10,"SBT, DPR, BAT",Could not find angler ID for stations 3 and 7
 AIT02_22,AI,MPA/REF,October,05,2022,Aloha Spirit,Pat,"Angel, Cheyenne",13,"DPR, BAT, SBT",
+AIT02_23,AI,MPA/REF,October,04,2023,ALOHA SPIRIT,PAT,"ANGEL, CHEYENNE",14,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 AIT03_17,AI,MPA/REF,November,8,2017,Stardust,Dane Johnston,"Larry Spurlock, John Shields, Christian Geisler",9,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbait",
 AIT03_18,AI,MPA/REF,October,30,2018,Aloha Spirit,Shawn Stewart,"Kenny, Gage, Angel",12,"SBT, DPR, BAT",N/A
 AIT03_19,AI,MPA/REF,September,19,2019,Aloha Spirit,Pat,"Kelly, Gage",9,"SBT, DPR, BAT",
 AIT03_20,AI,MPA/REF,September,15,2020,Aloha Spirit,Pat,"Gage, Burt",8,"DPR, BAT, SBT","Station #8 on and off, see notes"
 AIT03_21,AI,MPA/REF,October,05,2021,Aloha Spirit,Pat,"Chey, Sam",13,"SBT, DPR, BAT","Nothing on cloud cover, Could not find angler ID for station 1, 6, and 11. Nothing about weather"
 AIT03_22,AI,MPA/REF,October,06,2022,Aloha Spirit,Pat,"Angel, Cheyenne",13,"DPR, BAT, SBT",
+AIT03_23,AI,MPA/REF,October,05,2023,ALOHA SPIRIT,PAT,"ANGEL, BO",12,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 AIT04_18,AI,MPA/REF,October,31,2018,Aloha Spirit,Pat,"Kenny, Gage, Angel",12,"SBT, DPR, BAT",Blownout by Santa Anas halfway through the day
 AIT04_19,AI,MPA/REF,October,9,2019,Aloha Spirit,Pat,"Gage, Kelly",11,"SBT, DPR, BAT",
 AIT04_20,AI,MPA/REF,September,16,2020,Aloha Spirit,Pat,Kelly,8,"DPR, BAT, SBT",
 AIT04_21,AI,MPA/REF,October,06,2021,Aloha Spirit,Pat,"Cheyenne, Angel",9,"SBT, DPR, BAT","SBTs on 2oz heads @ beginning, Wind: 5-7 kts W all day, Swell: 3 @ 10 W"
 AIT04_22,AI,MPA/REF,October,11,2022,Aloha Spirit,Pat,"Angel, Cheyenne",15,"DPR, BAT, SBT",
+AIT04_23,AI,MPA/REF,October,10,2023,ALOHA SPIRIT,PAT,"AV, CHEYENNE",12,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 AIT05_18,AI,MPA/REF,November,14,2018,Aloha Spirit,Shawn Stewart,"Kenny, Gage, Angel",9,"SBT, DPR, BAT",
 AIT05_19,AI,MPA/REF,October,23,2019,Aloha Spirit,Pat,"Kelly, Gage",10,"SBT, DPR, BAT",
 AIT05_20,AI,MPA/REF,September,17,2020,Aloha Spirit,Pat,"Kelly, Gage, Burt",10,"DPR, BAT, SBT",
 AIT05_21,AI,MPA/REF,October,07,2021,Aloha Spirit,Pat,"Angel, Cheyenne, Bert",13,"SBT, DPR, BAT","SBTs 1.5oz heads all day, exclude #3 data from cell 7, drift 2 using wrong plastic body type, did 2 exploratory drifts offshore of cat rock (GPS-3), Wind: 3-5 kts W all day, Swell: 3-4 @ 12s W"
 AIT05_22,AI,MPA/REF,October,12,2022,Aloha Spirit,Pat,"Angel, Cheynne",13,"DPR, BAT, SBT",
+AIT05_23,AI,MPA/REF,October,12,2023,ALOHA SPIRIT,ANGEL,"AV, CHEYENNE, PAT",11,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 AIT06_20,AI,MPA/REF,September,21,2020,Aloha Spirit,Pat,Kelly,7,"DPR, BAT, SBT",
 AIT06_21,AI,MPA/REF,October,20,2021,Aloha Spirit,Kelly,"Angel, Cheyenne",10,"SBT, DPR, BAT",
 AIT06_22,AI,MPA/REF,October,13,2022,Aloha Spirit,Matt,"Angel, Cheynne",14,"DPR, BAT, SBT",New skipper today
+AIT06_23,AI,MPA/REF,October,18,2023,ALOHA SPIRIT,PAT,"IZZY, BLAR",12,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 ANT01_07,AN,MPA,August,20,2007,Huli Cat,Tom Mattusch,Gary Christensen,11,"Bait: Frozen squid, Lingcod bars= Misc. colors and 8 and 10 oz weights, some with single some with double hooks. Shrimp flies (2 types): red and white",Had a hard time finding good fishing spots
 ANT01_08,AN,REF,July,14,2008,Tigerfish,Allen Chin,Andrea Mizera,10,"Half red and half white shrimp flies, frozen squid bait, lingcod bars.",Steve Goodall: photographer for the day. Lost a lot of gear (angler experience?) Captain Allen Chin was fishing and helping tag fish. Lots of large moon jellies in the water.
 ANT01_09,AN,MPA,July,27,2009,New Captain Pete,Dennis Baxter,"Aldo El Sourougy, Rick Lopez",9,"1/2 red and 1/2 white shrimp flies, squid bait, lingcod bars 8 to10 oz, sinkers increased from 8 to 10 to 12 to 16 oz.","1st trip out with F/V New Captain Pete, captain and crew. A lot of time was spent looking for fishing spots. Lots of gear loss. No reliable SWT reading from vessel. Strong current, high relief. Strong southerly wind. J. Baba volunteering."
@@ -46,6 +52,7 @@ ANT01_19,AN,MPA,August,06,2019,Huli Cat,Tom Mattusch,Mike Cabanas/Mike Juanes,12
 ANT01_20,AN,REF,August,06,2020,Huli Cat,Tom Mattusch,Mike Cabanas,6,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Rolling swell, big lings, vermilions, and cabazon. Catch composition mainly blacks and blues."
 ANT01_21,AN,MPA/REF,July,27,2021,Huli Cat,Tom Mattusch,Mike Cabanas,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Weather was great - barely any wind and low swell, very calm seas; 1 tag recapture - Lingcod (67cm); cell 21 fished in samll spot of habitat, typically do not catch fish in this cell but this corner produced high diversity and large number of fishes."
 ANT01_22,AN,MPA,August,09,2022,New Captain Pete,Mike Cabanas,Braiden Baxter,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Moon jellies in water, 2 recaptured rockfish (Copper #41896 and Vermilion #40062), 3 huge lingcod"
+ANT01_23,AN,MPA/REF,August,01,2023,New Captain Pete,Mike C,Dylan,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Nice weather (nicer than expected), tag recapture, big lingcod caught that threw up a kelp greenling, only lost 1 jig"
 ANT02_07,AN,REF,August,21,2007,Huli Cat,Tom Mattusch,Gary Christensen,14,"Bait: Frozen Surf King Calamari, Lingcod bars= Misc. colors and 8 and 10 oz weights, some with single some with double hooks. Shrimp flies (2 types): red and white.",There were a reporter and photographer out with us this day. David Kammerer (A005) assisted the science crew and did not fish.
 ANT02_08,AN,MPA,July,15,2008,Tigerfish,Allen Chin,Andrea Mizera,9,"Half red and half white shrimp flies, frozen squid bait, 4 oz lingcod bars.",We did not switch to heavier weights despite current. Sea Lions were around the boat today.
 ANT02_09,AN,REF,July,28,2009,New Captain Pete,Dennis Baxter,"Aldo El Sourougy, Rick Lopez",9,"1/2 red and 1/2 white shrimp flies, squid bait, lingcod bars weight and sinker weight changed throughout the day.",Spent some time looking for fishing spots. Strong southerly wind. F/V Queen of Hearts fishing nearby for part of the day. Lots of gear loss and fish getting off lines. Lingcod bar and sinker weights changed a lot during the day. J. Baba volunteering.
@@ -62,6 +69,7 @@ ANT02_19,AN,REF,August,07,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"1. Lingcod
 ANT02_20,AN,MPA,August,18,2020,Huli Cat,Tom Mattusch,"Mike Cabanas, Zach Hasan",6,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Weather was rough throughout the day, very windy from the start and kept progressing. Lots of nereocystis kelp compared to years prior. Cell 21 was more productive than previous years"
 ANT02_21,AN,MPA/REF,July,28,2021,Huli Cat,Tom Mattusch,Mike Cabanas,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","RECAPTURED Vermilion - 40409 (44cm); calm seas, barely any wind/swell; some sea nettles; water was kind of brown, maybe red tide"
 ANT02_22,AN,REF,August,10,2022,New Captain Pete,Mike Cabanas,Braiden Baxter,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Calm seas; Lots of cabezon - fishing shallow. Also, tons of lingcod. Collected fish for NMFS"
+ANT02_23,AN,MPA,August,02,2023,New Captain Pete,Mike C,Dylan,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Really sticky bottom - lots of lost gear
 ANT03_07,AN,MPA,August,23,2007,Huli Cat,Tom Mattusch,Gary Christensen,13,"Bait: Frozen calamari, Lingcod bars= Misc. colors and 8 and 10 oz weights, some with single some with double hooks. Shrimp flies (2 types): red and white.","Cold and rough weather, low morale. A lot of snags."
 ANT03_08,AN,REF,July,16,2008,Huli Cat,Tom Mattusch,Gary Christensen,8,"Half red and half white shrimp flies, frozen squid bait, 6 oz lingcod bars, 8 oz lead weight.",We lost a lot of tackle today!! The current picked up.
 ANT03_09,AN,MPA,July,29,2009,Tigerfish,Allen Chin,Darrin Seiji,9,"1/2 red, 1/2 white shrimp flies, squid bait.  4 oz lingcod bars, 5 oz sinkers. We ran out of our 4 oz bars so Captain Allen Chin gave us some of his.",Sea lion around the boat. Some aggressive birds. Steady catch. Low wind. J. Baba volunteering.
@@ -78,6 +86,7 @@ ANT03_19,AN,MPA/REF,August,08,2019,Huli Cat,Tom Mattusch,Mike Cabanas,11,"1. Lin
 ANT03_20,AN,MPA,August,31,2020,Huli Cat,Tom Mattusch,"Mike Cabanas, Zach Hasan",6,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Weather was a bit breezy; started with three 15 minute drifts in first cell, then did 2 15min drifts for the remaining cells"
 ANT03_21,AN,MPA/REF,July,29,2021,Huli Cat,Tom Mattusch,Mike Cabanas,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Weather was still good - some sea nettles and moon jellies; NMFS collection; shallow fishing - nice sized Lings and 2 Cabezon, had some trouble with Gophers decending"
 ANT03_22,AN,MPA/REF,September,13,2022,New Captain Pete,Mike Cabanas,Mikey Juanes,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","2 no-shows, Slower fishing, Big swell in AM, Somewhat laid down throughout day with bigger period, Some nice sized Vermillion Rockfish, Jake B fishing station 11 and Marc fishing station 12 to fill no-shows"
+ANT03_23,AN,REF,August,03,2023,New Captain Pete,Mike C,Eli,10,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 ANT04_07,AN,REF,August,24,2007,Huli Cat,Tom Mattusch,Gary Christensen,18,"Bait: Frozen calamari, Lingcod bars= Misc. colors and 8 and 10 oz weights, some with single some with double hooks. Shrimp flies (2 types): red and white.",A lot of rotation on this trip. Large swells. Strong current. Rocky areas. Lots of lost gear. Fished 11 anglers for several drifts in the last cell due to lack of lingcod bars.
 ANT04_08,AN,MPA,July,17,2008,Huli Cat,Tom Mattusch,Gary Christensen,8,"Red & white shrimp flies, 10 oz lingcod bars, 10 oz lead weights, frozen squid bait.",It ws blowing 20 knots by the time we left the last site.
 ANT04_09,AN,REF,July,30,2009,Tigerfish,Allen Chin,Darrin Seiji,12,"1/2 red, 1/2 white shrimp flies, squid bait.  4 oz lingcod bars, 5 oz sinkers. We ran out of our 4 oz bars so Captain Allen Chin gave us some of his.","Calm waters, sunshine, low wind, low swell. No sea lions bothering us.Captain Allen Chin fished from time to time, but his fishes were not counted.Lingcod bars used were slightly different than protocol (the hook was from the shrimp fly rigs w/o feathers)"
@@ -94,6 +103,7 @@ ANT04_19,AN,MPA/REF,September,10,2019,Tigerfish,Allen Chin,Tom Corso,11,"1. Ling
 ANT04_20,AN,MPA/REF,September,01,2020,Huli Cat,Tom Mattusch,"Mike Cabanas, Zach Hasan",5,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Cells have been very kelpy this year affecting where we are able to fish vs where we typically fish; Hulicat crew at Station 4
 ANT04_21,AN,MPA,August,18,2021,Huli Cat,Tom Mattusch,Mike Cabanas,8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",No station 8; residual swell from hurricane and moderate south winds lead to slow fishing
 ANT04_22,AN,MPA,September,14,2022,New Captain Pete,Mike Cabanas,Lee Gualtieri,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","lots of fecund vermilion rockfish, calm seas, sea nettles and moon jellies in water, blue and clear water, Max was sick and could not make it"
+ANT04_23,AN,MPA,August,15,2023,New Captain Pete,Mike Cabanas,Mike Juanes,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","No station 6, 7, and 11"
 ANT05_07,AN,MPA,September,17,2007,Huli Cat,Tom Mattusch,Gary Christensen,6,"Bait: Frozen illex squid, Lingcod bars= Misc. colors and  8 oz weights, single hooks. Shrimp flies: red and white.",
 ANT05_08,AN,REF,August,11,2008,Queen of Hearts,Bob Ingles,James Crissman,11,"Half red and half white shrimp flies, squid bait, 6 oz lingcod bars.",First trip on the F/V Queen of Hearts. Good catch. Low wind. Captain Bob Ingles thought that tide may have affected catch. Big (and fat) swell. People getting sick.
 ANT05_09,AN,REF,August,17,2009,Queen of Hearts,Bob Ingles,Heather Shirley,7,"1/2 red, 1/2 white shrimp flies, squid bait. 8 oz sinkers, 6 & 8 oz lingcod bars.","Yellow tags before today, blue tags from here to the end of the season. Cold, overcast. Large swell, boat rocking a lot. Lots of young rockfish caught, blue and black rockfish.Red tide on steam out. Strong current. J. Baba volunteering."
@@ -109,6 +119,7 @@ ANT05_19,AN,MPA,September,11,2019,Tigerfish,Allen Chin,Tom Corso,12,"1. Lingcod 
 ANT05_20,AN,MPA/REF,September,02,2020,Huli Cat,Tom Mattusch,Zach Hasan,6,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Flat seas, some jellies in the water, great fishing in MPA & REF, Zach H filled in for Keri C. at station 6 periodically"
 ANT05_21,AN,REF,August,23,2021,Huli Cat,Mike Cabanas,Jack,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",RECAPTURED Gopher- tag # 40267; cloudy weather; bull kelp; lots of tangles
 ANT05_22,AN,MPA/REF,September,15,2022,New Captain Pete,Mike Cabanas,Lee Gualtieri,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Joined by two people from UCD; Good weather - nearly no wind; One brown rockfish recapture #42594; Sea nettles all over; 1 fish retained for NMFS
+ANT05_23,AN,MPA/REF,August,16,2023,New Captain Pete,Mike C,Mike J,11,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 ANT06_07,AN,REF,September,18,2007,Huli Cat,Tom Mattusch,David Lapchuk,6,"Bait: Frozen illex squid, Lingcod bars= Misc. colors and  8 oz weights, single hooks. Shrimp flies: red and white.",
 ANT06_08,AN,MPA,August,12,2008,Queen of Hearts,Bob Ingles,James Crissman,11,"Half red and half white shrimp flies, squid bait, 6 oz lingcod bars.","Big swell, but good fishing.  No one got seasick.  Overcast all day."
 ANT06_09,AN,MPA,August,18,2009,Queen of Hearts,Bob Ingles,Zach Davidson,9,"1/2 red, 1/2 white shrimp flies, squid bait. 8 oz sinkers, 4,6 & 8 oz lingcod bars.","Great Day! Flat, calm, high catch. The descender rope got caught in the propellor, retrieved the device but rope stuck. Fished 2 grid cells, then headed in. Red tide on the steam out. J. baba volunteering."
@@ -124,6 +135,7 @@ ANT06_19,AN,REF,September,12,2019,Tigerfish,Allen Chin,Tom Corso,10,"1. Lingcod 
 ANT06_20,AN,REF,September,03,2020,Huli Cat,Tom Mattusch,Mike Cabanas,6,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Wind picked up throughout day, not much swell. We saw a lot of lings (91-89cm) Jellies in water and pyrosomes in bellies of fishes, Ling Recap!"
 ANT06_21,AN,MPA/REF,August,24,2021,Huli Cat,Tom Mattusch,Mike Cabanas,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",RECAPTURED Vermilion - tag #40321; very fast fishing; grid cell 01 was cut short due to weather picking up
 ANT06_22,AN,REF,September,16,2022,New Captain Pete,Mike Cabanas,Lee Gualtieri,11,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Station 9 and 7 switched anglers at cell 7 (John Fung is #9 and Science crew is #7), collected fish for NMFS, Jorden and francine from BML joined us and ran data and tag board for first two cells,"
+ANT06_23,AN,REF,August,17,2023,New Captain Pete,Mike C,Mike J,11,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 ANT07_07,AN,MPA,September,20,2007,Huli Cat,Tom Mattusch,David Lapchuk,6,"Bait: Frozen illex squid, Lingcod bars= Misc. colors and  8 and 10 oz weights, single hooks. Shrimp flies: red and white.",We had a cameraman and reporter from Channel 2 Oakland (Tom Vacar) out with us today. Because we lost a day to weather we sampled 2 MPA and 2 REF cells this day.
 ANT07_08,AN,REF,August,13,2008,Tigerfish,Allen Chin,Darrin Seiji,9,"Half red and half white shrimp flies, squid bait, 4 oz lingcod bars.","Captain Allen Chin was helping tag fish today.  Large swell, calming down towards the last cell.  Overcast and low wind all day.  A grey whale came near the boat for a little while."
 ANT07_09,AN,REF,August,19,2009,Huli Cat,Tom Mattusch,"Aldo El Sourougy, Skip Matthewson",12,"1/2 red and 1/2 white shrimp flies, squid bait, 8 oz sinkers, 4&6 oz lingcod bars (ran out of 4 oz bars)","Red tide on the steam out. Great day, steady catch. Lots of gear loss. Caught several black/blue hybrids?  Had to stop drifts to process fishes. J. Baba volunteering."
@@ -156,32 +168,38 @@ BHT01_19,BH,MPA/REF,July,24,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY
 BHT01_20,BH,MPA/REF,August,10,2020,Huli Cat,Tom Mattusch,Mike Cabanas,6,"BAR, FLY, BAT",
 BHT01_21,BH,MPA/REF,August,2,2021,Huli Cat,Tom Mattusch,Mike Cabanas,9,"BAR, FLY, BAT","Throttle broke on Huli Cat, so we had to end the trip early."
 BHT01_22,BH,MPA/ REF,September,30,2022,Take Five,Ryan Giammona,Josh Peterson,3,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+BHT01_23,BH,MPA/REF,August,08,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 BHT02_17,BH,MPA/REF,September,25,2017,Huli Cat,Tom Mattusch,Donovan Ash & Mike Cabanas,12,"baited shrimp flies, unbaited shrimp flies, Lingcod bars",
 BHT02_18,BH,MPA/REF,August,31,2018,Huli Cat,Tom Mattusch,Mike Cabanas,12,"baited shrimp flies, unbaited shrimp flies, cod bars",
 BHT02_19,BH,MPA/REF,August,19,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 BHT02_20,BH,MPA/REF,August,13,2020,Huli Cat,Tom Mattusch,Mike Cabanas,6,"BAR, FLY, BAT",
 BHT02_21,BH,MPA/REF,August,4,2021,Huli Cat,Tom Mattusch,Mike Cabanas,8,"BAR, FLY, BAT",
 BHT02_22,BH,MPA/ REF,October,04,2022,New Captain Pete,Mike Cabanas,Mike Juanes,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+BHT02_23,BH,MPA/REF,August,15,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 BHT03_17,BH,REF,September,27,2017,Huli Cat,Tom Mattusch,Donovan Ash & Mike Cabanas,12,"baited shrimp flies, unbaited shrimp flies, Lingcod bars",Drift 01 is missing for grid cell 22 on 09/27/17- was labelled incorrectly but retained as 2 in all of data; NO 22_01
 BHT03_18,BH,REF,September,1,2018,Huli Cat,Tom Mattusch,"Mike Cabanas,Donovan Ash",12,"baited shrimp flies, unbaited shrimp flies, cod bars",
 BHT03_19,BH,MPA/REF,August,21,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 BHT03_20,BH,MPA/REF,August,15,2020,Huli Cat,Tom Mattusch,Mike Cabanas,6,"BAR, FLY, BAT",
 BHT03_21,BH,MPA/REF,August,6,2021,Huli Cat,Tom Mattusch,Mike Cabanas,6,"BAR, FLY, BAT",
 BHT03_22,BH,MPA/ REF,October,05,2022,New Captain Pete,Mike Cabanas,Mike Juanes,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+BHT03_23,BH,MPA/REF,September,06,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 BHT04_17,BH,MPA/REF,September,29,2017,Huli Cat,Tom Mattusch,Donovan Ash & Mike Cabanas,9,"baited shrimp flies, unbaited shrimp flies, Lingcod bars","no anglers 4, 6, 14"
 BHT04_18,BH,MPA/REF,September,17,2018,Huli Cat,Tom Mattusch,Mike Cabanas,12,"baited shrimp flies, unbaited shrimp flies, cod bars",
 BHT04_19,BH,MPA/REF,August,24,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 BHT04_20,BH,MPA/REF,September,7,2020,Huli Cat,Tom Mattusch,Mike Cabanas and Zach Hassan,6,"BAR, FLY, BAT",Move cell 5 East! Too deep
 BHT04_21,BH,MPA/REF,August,30,2021,Huli Cat,Tom Mattusch,"Mike Cabanas, Jack",9,"BAR, FLY, BAT",
 BHT04_22,BH,MPA/ REF,October,24,2022,New Captain Pete,Mike Cabanas,Mike Juanes,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+BHT04_23,BH,MPA/REF,September,12,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 BHT05_18,BH,MPA/REF,September,19,2018,Huli Cat,Tom Mattusch,Mike Cabanas,12,"baited shrimp flies, unbaited shrimp flies, cod bars",
 BHT05_19,BH,MPA/REF,August,26,2019,Huli Cat,Tom Mattusch,Mike Cabanas,9,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 BHT05_20,BH,MPA/REF,September,8,2020,Huli Cat,Tom Mattusch,Mike Cabanas,6,"BAR, FLY, BAT",CELL 12 TOO DEEP (~140)
 BHT05_21,BH,MPA/REF,September,2,2021,Huli Cat,Tom Mattusch,Mike Cabanas,7,"BAR, FLY, BAT",
 BHT05_22,BH,MPA/ REF,October,25,2022,New Captain Pete,Mike Cabanas,Mike Juanes,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Shortened drifts to 10 minutes due to weather
+BHT05_23,BH,MPA/REF,September,13,2023,New Sea Angler,Rick Powers,Dana Amundsen,13,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 BHT06_18,BH,MPA/REF,October,22,2018,Take Five,Merlin Klob,Dimitri,6,"baited shrimp flies, unbaited shrimp flies, cod bars",
 BHT06_19,BH,MPA/REF,August,27,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 BHT06_21,BH,MPA/REF,September,5,2021,Huli Cat,Tom Mattusch,"Mike Cabanas, Jack",5,"BAR, FLY, BAT",
+BHT06_23,BH,MPA/REF,September,14,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 BLT01_08,BL,MPA,July,15,2008,Princess,Brad Leage,Jessica Rhodes,10,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,First trip of the season.
 BLT01_09,BL,MPA,July,29,2009,Rita G,Michele Leary,Matt Duffy,11,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
 BLT01_10,BL,REF,July,20,2010,Princess,Brad Leage,James,13,"Bait: Frozen calamari Lingcod bars: 6 oz. misc. colors, with single hooks Shrimp flies (2 types): red and white, 16 oz. weights",
@@ -202,6 +220,7 @@ BLT01_21,BL,REF,July,12,2021,Rita G,Marcus,Kahye,6,"1) LCD bar + shrimpfly tease
 BLT01_22,BL,MPA,July,12,2022,Fiesta,James (Virg's),"Andrew, Ventura",8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","very calm, wind 1-2 knots NW, Humpbacks, numerous sea lions"
+BLT01_23,BL,MPA,July,11,2023,Fiesta,James,"Ventura, Andrew",8,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","foggy to clearing then back to foggy, verm mortality by birds and seagulls were bad today, jellyfish, first day of season, copper caught on FLY w/ BAT red/yellow hook broke off in mouth"
 BLT02_08,BL,REF,July,16,2008,Princess,Brad Leage,Jessica Rhodes,10,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 BLT02_09,BL,REF,July,30,2009,Rita G,Michele Leary,Matt Duffy,9,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
 BLT02_10,BL,MPA,July,21,2010,Rita G,Michele Leary,D.J.,12,"Bait: Frozen squid. Lincod bars: w/ fly teaser, multicolored, 6 oz.  Shrimp flies: red and white, 16oz weights.","12 volunteers were on this trip, only 9 fished- not enough rental rods. Switching of angler stations was not documented on  data sheets- angler assignments following the first cell sampled were not entered (impossible to know station switches made)."
@@ -224,6 +243,7 @@ BLT02_21,BL,MPA,July,13,2021,Fiesta,James (Virg's),Deanna,5,"1) LCD bar + shrimp
 BLT02_22,BL,REF,July,13,2022,Rita G,Marcus,Weston,4,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","Nice, mild weather, wind picked up at end, slightly cloudy, 1 tag return, 1 sole, 1 sanddab, stary, calm water in AM, low # anglers"
+BLT02_23,BL,REF,July,12,2023,Rita G,Frank,Aaron,8,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","Grey sky all day, could not fish last drift due to time constraint. First time out for GD, ES, IC. Fog. Lots of kelp rockfish"
 BLT03_08,BL,REF,July,22,2008,Princess,Brad Leage,Evan Beckett,9,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 BLT03_09,BL,MPA,August,03,2009,Rita G,Michele Leary,Fernando Salazar,10,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
 BLT03_10,BL,MPA,August,02,2010,Fiesta,Owen Hackelman,Sergio Bermudez,12,"Bait: Frozen squid. Lincod bars: w/ fly teaser, multicolored, 6 oz.  Shrimp flies: red and white, 16oz weights.",
@@ -247,6 +267,7 @@ BLT03_21,BL,REF,July,26,2021,Rita G,Marcus,Kahye,6,"1) LCD bar + shrimpfly tease
 BLT03_22,BL,MPA,July,26,2022,Fiesta,James (Virg's),"Deanna, Andrew",7,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","Beautiful & calm weather all day, Shannon & Erin S.'s first MPA trip, Humpback whales, DEW crew reunion"
+BLT03_23,BL,MPA,August,08,2023,Fiesta,James,"Andrew, Ventura, Deanna",8,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","overvast to clear in the afternoon; beautiful day, make up for 2 weeks bad weather, whales on the way out, hitchiker ling!!, dark coppers, DFG checked out permit - all good."
 BLT04_08,BL,MPA,July,23,2008,Princess,Brad Leage,Evan Beckett,12,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 BLT04_09,BL,REF,August,06,2009,Rita G,Michele Leary,Bruce Oda,6,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.","Anglers suggest that the low catch for this day is attributed to the full moon, and the presence of jellies and 'krill' in the water. Caught fishes have high amounts of brittle stars in their mouths."
 BLT04_10,BL,REF,August,03,2010,Fiesta,John Rowley,Brian Pabinquit,11,"Bait: Frozen squid. Lincod bars: w/ fly teaser, multicolored, 8 oz.  Shrimp flies: red and white, 16oz weights.",
@@ -270,6 +291,7 @@ BLT04_21,BL,MPA,July,27,2021,Fiesta,James (Virg's),"Ventura, Deanna",6,"1) LCD b
 BLT04_22,BL,REF,July,27,2022,Rita G,Marcus,Dylan,7,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","NO BAIT ALL DAY, wind picking up throughout day but swell stayed down, BML techs out with science crew, good whale show on way home, cold, cell 36 & 37 really kelpy, couldn't take CTD data for cell 36 & 37"
+BLT04_23,BL,REF,August,09,2023,Rita G.,Frank,"Aaron, Deanna",9,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","Lots of species, beautiful day on the water. No CTD for drift 10 + 11 because of time restriction."
 BLT05_08,BL,REF,August,12,2008,Princess,Brad Leage,Josh Dagama,11,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 BLT05_09,BL,REF,August,25,2009,Rita G,Michele Leary,Trevor Jenison,10,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
 BLT05_10,BL,REF,August,23,2010,Rita G,Michele Leary,Matt Duffy,13,"Bait: Frozen squid. Lincod bars: w/ fly teaser, multicolored, 4 oz.  Shrimp flies: red and white, 16oz weights.",
@@ -290,6 +312,7 @@ BLT05_21,BL,REF,August,30,2021,Rita G,Marcus,Dylan,5,"1) LCD bar + shrimpfly tea
 BLT05_22,BL,MPA,September,06,2022,Fiesta,James (Virg's),Ventura and Andrew,8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","lots of coppers, 3 tag returns, shifting wind, big olives, no tags all day"
+BLT05_23,BL,MPA,August,22,2023,Fiesta,James,"Andrew, Deanna, Ventura",7,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","beautiful day, Grant Waltz and The DEWds"
 BLT06_08,BL,MPA,August,13,2008,Princess,Brad Leage,Josh Dagama,11,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 BLT06_09,BL,MPA,August,26,2009,Rita G,Michele Leary,Michael Wood,9,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
 BLT06_10,BL,MPA,August,24,2010,Rita G,Michele Leary,Matt Duffy,12,"Bait: Frozen squid. Lincod bars: w/ fly teaser, multicolored, 4 oz.  Shrimp flies: red and white, 16oz weights.",
@@ -313,6 +336,7 @@ BLT06_21,BL,MPA,August,31,2021,Fiesta,James (Virg's),"Ventura, Andrew",8,"1) LCD
 BLT06_22,BL,REF,September,07,2022,Rita G,Marcus,Mansur,7,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","good weather, many sea stars, sea cucumber, lots of copper rockfish"
+BLT06_23,BL,REF,August,23,2023,Rita G.,Frank,"Aaron, Ventura",10,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","nice group of anglers, gray weather, fast drifts -> couldn't stay in cell, big lingcod, kelp greenling!!"
 BLT07_08,BL,REF,August,19,2008,Admiral,Charlie Lanini,"Dan Holdsman, Fernando Salazar, Nick",12,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 BLT07_09,BL,MPA,September,01,2009,Rita G,Michele Leary,Fernando Salazar,9,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
 BLT07_10,BL,MPA,September,07,2010,Fiesta,Joe Anderton,Sergio Bermudez,11,"Bait: Frozen squid. Lincod bars: w/ fly teaser, multicolored, 4 oz.  Shrimp flies: red and white, 16oz weights.",We were one angler short today so the science crew took turns fishing at station 8.
@@ -341,66 +365,78 @@ CMT01_19,CM,MPA,June,24,2019,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT
 CMT01_20,CM,MPA,June,10,2020,Fishy Business,Matt Dallam,NA,0,"BAT, FLY, BAR",3 science crew. Only 2 anglers (BAT and BAR).
 CMT01_21,CM,MPA,June,13,2021,Fishy Business,Matt Dallam,NA,4,"FLY, BAT, BAR, SBT",Windy day (20+ knots). Drifting at up to 2 knots. Hard to keep gear on the bottom.
 CMT01_22,CM,REF,June,01,2022,Fishy Business,Matt Dallam,NA,2,"FLY, BAT, SBT, SFS, BAR, SFB",
+CMT01_23,CM,MPA,June,22,2023,Fishy Business,Matt Dallam,,2,"BAR, FLY, BAT, SBT","3 science crew, 2 volunteer anglers, captain and 1 science crew contributed as angler -BAT:H100, FLY:H005, BAR/SFB: H101, SBT/SFS: H099"
 CMT02_17,CM,REF,June,16,2017,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT02_18,CM,REF,June,19,2018,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",Lot of hang ups and gear lost. GoPro Died in middle of box 3.
 CMT02_19,CM,REF,June,27,2019,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",Great conditions at the cape
 CMT02_20,CM,REF,June,11,2020,Fishy Business,Matt Dallam,NA,0,"BAT, FLY, BAR","4 science crew, 3 anglers  (2 science crew and captain made up anglers)"
 CMT02_21,CM,REF,June,14,2021,Fishy Business,Matt Dallam,NA,4,"FLY, BAT, BAR, SBT",
 CMT02_22,CM,MPA,June,02,2022,Fishy Business,Matt Dallam,NA,0,"FLY, BAT, SBT, SFS, BAR, SFB",
+CMT02_23,CM,REF,June,23,2023,Fishy Business,Matt Dallam,,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, captain contributed as angler -BAT:H053, FLY:H105, BAR/SFB: H015, SBT/SFS: H099"
 CMT03_17,CM,MPA/REF,June,25,2017,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",6 cells sampled on this trip. Make up for boat breakdown on 6/16/17
 CMT03_18,CM,MPA,July,29,2018,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",Broken Tag gun -- No tagged fishes
 CMT03_19,CM,REF,September,7,2019,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT03_20,CM,MPA,July,20,2020,Fishy Business,Matt Dallam,NA,0,"BAT, FLY, BAR, SBT","5 science crew (Jay, Leon, Travis, Yeng, Katie). 4 anglers."
 CMT03_21,CM,MPA,August,2,2021,Fishy Business,Matt Dallam,NA,4,"FLY, BAT, BAR, SBT",
 CMT03_22,CM,MPA,June,08,2022,Fishy Business,Matt Dallam,NA,0,"FLY, BAT, SBT, SFS, BAR, SFB",
+CMT03_23,CM,MPA,July,29,2023,Fishy Business,Matt Dallam,,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, captain contributed as angler -BAT: H106, FLY: H103, BAR/SFB: H071, SBT/SFS: H099"
 CMT04_17,CM,REF,July,7,2017,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT04_18,CM,REF,July,31,2018,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT04_19,CM,MPA,September,9,2019,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",Fast drift ~1.5kn in first 2 boxes and decreasing to 1 kn in last two cells. Anglers reeling up to re-drop every couple minutes. Catch rates were slower than average.
 CMT04_20,CM,REF,July,21,2020,Fishy Business,Matt Dallam,NA,0,"BAT, FLY, BAR","4 science crew, 3 anglers  (2 science crew and captain made up anglers)"
 CMT04_21,CM,REF,August,3,2021,Fishy Business,Matt Dallam,NA,4,"FLY, BAT, BAR, SBT",
 CMT04_22,CM,REF,June,09,2022,Fishy Business,Matt Dallam,NA,2,"FLY, BAT, SBT, SFS, BAR, SFB",
+CMT04_23,CM,REF,July,30,2023,Fishy Business,Matt Dallam,,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, captain contributed as angler -BAT: H109, FLY: H108, BAR/SFB: H107, SBT/SFS: H099"
 CMT05_17,CM,REF,August,3,2017,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT05_18,CM,MPA,August,29,2018,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT05_19,CM,REF,September,15,2019,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT05_20,CM,MPA,July,29,2020,Fishy Business,Matt Dallam,NA,0,"BAT, FLY, BAR","4 science crew, 3 anglers (2 science crew and captain made up anglers)"
 CMT05_21,CM,REF,September,25,2021,Fishy Business,Matt Dallam,NA,4,"FLY, BAT, BAR, SBT",Windy day at the cape. 15-20 knot sustained with 25-30 gusts. Shot period swell and wind chop.
 CMT05_22,CM,MPA/REF,July,26,2022,Fishy Business,Matt Dallam,NA,2,"FLY, BAT, SBT, SFS, BAR, SFB",
+CMT05_23,CM,MPA,August,12,2023,Fishy Business,Matt Dallam,,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, captain contributed as angler -BAT: H112, FLY: H111, BAR/SFB: H058, SBT/SFS: H099"
 CMT06_17,CM,MPA,August,6,2017,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT06_18,CM,REF,August,30,2018,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT06_19,CM,MPA,September,22,2019,Fishy Business,Matt Dallam,NA,4,"BAT, FLY, BAR, SBT",
 CMT06_20,CM,REF,July,30,2020,Fishy Business,Matt Dallam,NA,0,"BAT, FLY, BAR","4 science crew, 3 anglers  (2 science crew and captain made up anglers)"
 CMT06_21,CM,MPA,October,8,2021,Fishy Business,Matt Dallam,NA,4,"FLY, BAT, BAR, SBT",
+CMT06_23,CM,REF,August,13,2023,FiShy Business,Matt Dallam,,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, captain contributed as angler -BAT: H114, FLY: H113, BAR/SFB: H058, SBT/SFS: H099"
 CPT01_17,CP,MPA/REF,October,16,2017,Stardust,Dane Johnston,"Larry Spurlock, John Shields, Christian Geisler",8,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 CPT01_18,CP,MPA/REF,September,10,2018,Stardust,Sal Silva,"John, Christian, Rudy",12,"SBT, DPR, BAT","Cloudy, windy all day"
 CPT01_19,CP,MPA/REF,September,24,2019,Stardust,Sal Silva,"John, Russell",12,"SBT, DPR, BAT",
 CPT01_20,CP,MPA/REF,October,6,2020,Stardust,Sal Silva,"Christian, John",9,"DPR, BAT, SBT",
 CPT01_21,CP,MPA/REF,October,14,2021,Stardust,Sal Silva,"Russell, John S, Christian, Jax",13,"SBT, DPR, BAT",
 CPT01_22,CP,MPA/REF,September,06,2022,Stardust,Sal Silva,"CG, LS",11,"DPR, BAT, SBT",
+CPT01_23,CP,MPA/REF,September,05,2023,STARDUST,SAL,"LS, JB, LC",14,"DPR, BAT, SBT",MEASURING FL TO MM WHEN POSSIBLE
 CPT02_17,CP,MPA/REF,October,23,2017,Stardust,Dane Johnston,"Larry Spurlock, John Shields, Christian Geisler",12,"Baited Shrimp Fly, Doouble Dropper Loop with Bait, Swimbaits","#12 ON FIRST TWO CELLS, THEN OFF; PARTIALLY ON AGAIN LAST 2 CELLS; #3 SWITCH TO BAT 2ND CELL"
 CPT02_18,CP,MPA/REF,September,11,2018,Stardust,Sal Silva,"John, Dylan, Russell, Rudy",12,"SBT, DPR, BAT",N/A
 CPT02_19,CP,MPA/REF,September,25,2019,Stardust,Sal Silva,"John, Russell",13,"SBT, DPR, BAT",SOUTH E WIND IN THE MORNING & BACK UP TO 5-10 KTS  @ 1330
 CPT02_20,CP,MPA/REF,October,7,2020,Stardust,Sal Silva,"Christian, John, Jax, Matthew",12,"DPR, BAT, SBT",
 CPT02_21,CP,MPA/REF,October,19,2021,Stardust,Sal Silva,"Russel, John S, Christian",13,"SBT, DPR, BAT",
 CPT02_22,CP,MPA/REF,September,07,2022,Stardust,Sal Silva,"CG, LS",11,"DPR, BAT, SBT",
+CPT02_23,CP,MPA/REF,September,06,2023,STARDUST,SAL,"JB, LB, MD",12,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 CPT03_17,CP,MPA/REF,October,24,2017,Stardust,Dane Johnston,"Larry Spurlock, John Shields, Christian Geisler",9,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbait",Stn #8 switch to SBT halfway through day
 CPT03_18,CP,MPA/REF,September,12,2018,Stardust,Sal Silva,"Russ, Rudy, John",11,"SBT, DPR, BAT",N/A
 CPT03_19,CP,MPA/REF,October,2,2019,Stardust,Sal Silva,"John, Russell",13,"SBT, DPR, BAT",
 CPT03_20,CP,MPA/REF,October,13,2020,Stardust,Sal Silva,"Russel, John",10,"DPR, BAT, SBT",
 CPT03_21,CP,MPA/REF,November,08,2021,Stardust,Sal Silva,"Russell, John S, John B",11,"SBT, DPR, BAT","Swell ~4-6 ft @ 12 W all day, Light breeze 3-5 kts all day, Overcast morning, then clear by 3rd cell"
 CPT03_22,CP,MPA/REF,September,08,2022,Stardust,Sal Silva,"CG, Johnny B",14,"DPR, BAT, SBT",
+CPT03_23,CP,MPA/REF,September,07,2023,STARDUST,SAL,"JB, LB, MD",12,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 CPT04_18,CP,MPA/REF,September,24,2018,Stardust,Sal Silva,"John, Larry, Rudy",11,"SBT, DPR, BAT",N/A
 CPT04_19,CP,MPA/REF,October,15,2019,Stardust,Sal Silva,"John, Russell",12,"SBT, DPR, BAT",#8 sat out last two cells (seasick); 2 tag recaptures
 CPT04_20,CP,MPA/REF,October,14,2020,Stardust,Sal Silva,"Christian, Russell, Cameron",11,"DPR, BAT, SBT",
 CPT04_21,CP,MPA/REF,November,15,2021,Stardust,Sal Silva,"John S, John B, Cameron",13,"SBT, DPR, BAT","Foggy all day, 3-5kt W Wind and 2-3 ft W swell"
 CPT04_22,CP,MPA/REF,September,12,2022,Stardust,Sal Silva,"LS, JB",13,"DPR, BAT, SBT",
+CPT04_23,CP,MPA/REF,September,13,2023,STARDUST,SAL,"LS, LB, JB",12,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 CPT05_18,CP,MPA/REF,September,25,2018,Stardust,Sal Silva,"Larry, John, Rudy",12,"SBT, DPR, BAT",N/A
 CPT05_19,CP,MPA/REF,October,16,2019,Stardust,Sal Silva,"John, Russell",12,"SBT, DPR, BAT",
 CPT05_20,CP,MPA/REF,October,15,2020,Stardust,Sal Silva,"Russell, John",10,"DPR, BAT, SBT",
 CPT05_21,CP,MPA/REF,November,16,2021,Stardust,Sal Silva,"John S, John B, Christian",11,"SBT, DPR, BAT","Cloudy in am, started to clear up in the afternoon; 3-5 kt winds all day, 2-3 ft W swell"
 CPT05_22,CP,MPA/REF,September,19,2022,Stardust,Sal Silva,"LS, JS",14,"DPR, BAT, SBT",
+CPT05_23,CP,MPA/REF,September,14,2023,STARDUST,SAL,"LS, LB, JB",14,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 CPT06_20,CP,MPA/REF,October,22,2020,Stardust,Sal Silva,"Russell, Cameron",10,"DPR, BAT, SBT",
 CPT06_21,CP,MPA/REF,November,17,2021,Stardust,Sal Silva,"John S, John B, Jax, Cameron",14,"SBT, DPR, BAT",Chris actually fished today!
 CPT06_22,CP,MPA/REF,September,20,2022,Stardust,Sal Silva,"LS, JS, Johnny B",13,"DPR, BAT, SBT",
+CPT06_23,CP,MPA/REF,September,21,2023,STARDUST,SAL,"LS, LB, JB",14,"SBT, DPR, BAT",MEASURING FL TO MM WHEN POSSIBLE
 FNT01_17,FN,REF,July,26,2017,Tigerfish,Allen Chin,Jeff Soo Hoo (Darren),12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","!st day at the SE Farallon Islands, Bodega Marine Lab science crew joined for on board training, Sampled 9 REF cells"
 FNT01_18,FN,MPA,August,21,2018,Huli Cat,Tom Mattusch,Mike Cabanas,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Great weather and quality fishes; Started deeper in the morning, which resulted in lots of descending; Caught a Wolf Eel!"
 FNT02_17,FN,MPA,July,27,2017,Tigerfish,Allen Chin,Jeff Soo Hoo,10,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","10 volunteer anglers, Jeff's son Darren is fishing, Science crew will fill in 1-2 spots depending on fishing rate,starting with 8oz weights and 4oz bars, more wind today and foggy"
@@ -422,30 +458,36 @@ LJT01_19,LJ,MPA/REF,August,21,2019,Sea Watch,Kris Karpow,Corey,15,"BAT, DPR, SBT
 LJT01_20,LJ,MPA/REF,July,28,2020,Outer Limits,Paul Fischer,"Ozzy, Ben",6,"BAT, DPR, SBT",
 LJT01_21,LJ,MPA/REF,July,15,2021,Outer Limits,Paul Fischer,Ozzy,6,"BAT, DPR, SBT",
 LJT01_22,LJ,MPA/REF,July,06,2022,Outer Limits,Paul Fischer,"Ozzy, Robert, John",14,"BAT, DPR, SBT",
+LJT01_23,LJ,MPA/REF,June,29,2023,Outer Limits,Paul Fischer,"Robert, Ozzy",16,"BAT, DPR, SBT","Angler #8 only fished for 6 drifts, Angler #10 only fished for 1 drift"
 LJT02_17,LJ,REF,July,18,2017,Outer Limits,Paul Fischer,"Everett, Stephen, Boone",13,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 LJT02_18,LJ,MPA/REF,July,12,2018,Outer Limits,Paul Fischer,"Jake Young, Alex Godfrey",12,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 LJT02_19,LJ,MPA/REF,August,22,2019,Sea Watch,Kris Karpow,Corey,16,"BAT, DPR, SBT",
 LJT02_20,LJ,MPA/REF,July,29,2020,Outer Limits,Paul Fischer,"Ozzy, Ben",6,"BAT, DPR, SBT",Hobo sensor malfunction
 LJT02_21,LJ,MPA/REF,July,16,2021,Outer Limits,Paul Fischer,Ozzy,6,"BAT, DPR, SBT",Stn #1 (Kam) fishing with SBT for the first drift…switched to Dropper Loop after
 LJT02_22,LJ,MPA/REF,July,07,2022,Outer Limits,Paul Fischer,"Ozzy, Robert, John",15,"BAT, DPR, SBT",
+LJT02_23,LJ,MPA/REF,June,30,2023,Outer Limits,Paul Fischer,"Robert, Ozzy",13,"BAT. DPR, SBT",
 LJT03_17,LJ,MPA/REF,August,28,2017,Sea Watch,Kris Karpow,Ethan,9,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 LJT03_18,LJ,REF,August,21,2018,Sea Watch,Kris Karpow,Andrew,15,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 LJT03_19,LJ,MPA/REF,September,3,2019,Sea Watch,Kris Karpow,Andrew,16,"BAT, DPR, SBT",
 LJT03_20,LJ,MPA/REF,August,19,2020,Outer Limits,Paul Fischer,"Ozzy, Ben",6,"BAT, DPR, SBT",
 LJT03_21,LJ,MPA/REF,July,28,2021,Outer Limits,Paul Fischer,Ozzy,7,"BAT, DPR, SBT",
 LJT03_22,LJ,MPA/REF,July,13,2022,Outer Limits,Paul Fischer,"Tyler, John",14,"BAT, DPR, SBT",
+LJT03_23,LJ,MPA/REF,July,06,2023,Outer Limits,Ozzy Mcgowan,Robert,17,"BAT, DPR, SBT",
 LJT04_17,LJ,MPA/REF,August,29,2017,Sea Watch,Kris Karpow,Ethan,6,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 LJT04_18,LJ,MPA/REF,August,22,2018,Sea Watch,Kris Karpow,CJ Harring,12,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 LJT04_19,LJ,MPA/REF,September,4,2019,Sea Watch,Kris Karpow,Andrew,13,"BAT, DPR, SBT",
 LJT04_20,LJ,MPA/REF,August,31,2020,Outer Limits,Paul Fischer,"Ozzy, Ben",6,"BAT, DPR, SBT",
 LJT04_21,LJ,MPA/REF,August,18,2021,Outer Limits,Paul Fischer,Ozzy,8,"BAT, DPR, SBT",
 LJT04_22,LJ,MPA/REF,July,15,2022,Outer Limits,Paul Fischer,"Ozzy, Robert",16,"BAT, DPR, SBT",
+LJT04_23,LJ,MPA/REF,July,12,2023,Outer Limits,Ozzy Mcgowan,Robert,17,"BAT, DPR, SBT",
 LJT05_20,LJ,MPA/REF,September,7,2020,Outer Limits,Paul Fischer,"Ozzy, Ben",6,"BAT, DPR, SBT",South wind brought really bad weather today; hobo sensor lost at sea
 LJT05_21,LJ,MPA/REF,August,25,2021,Outer Limits,Paul Fischer,Ben,6,"BAT, DPR, SBT",
 LJT05_22,LJ,MPA/REF,August,04,2022,Outer Limits,Paul Fischer,Robert,16,"BAT, DPR, SBT",
+LJT05_23,LJ,MPA/REF,August,16,2023,Outer Limits,Ozzy Mcgowan,Robert,15,"BAT, DPR, SBT",
 LJT06_20,LJ,MPA/REF,September,16,2020,Outer Limits,Paul Fischer,Ozzy,6,"BAT, DPR, SBT",
 LJT06_21,LJ,MPA/REF,September,6,2021,Outer Limits,Paul Fischer,Ozzy,6,"BAT, DPR, SBT",
 LJT06_22,LJ,MPA/REF,August,05,2022,Outer Limits,Paul Fischer,"Robert, John",15,"BAT, DPR, SBT",
+LJT06_23,LJ,MPA/REF,August,23,2023,Outer Limits,Paul Fischer,"Robert, Ozzy",18,"BAT, DPR, SBT",
 PBT01_07,PB,MPA,August,21,2007,Fiesta,Michele Leary,Jessica Rhodes,10,Bait: frozen squid; white shrimp flies; misc. colors/weights lingcod bars.,Dean Wendt & Royden Nakamura were on board today.
 PBT01_08,PB,MPA,July,17,2008,Patriot,Joe Kucera,Sam Mejilla,9,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,Roughest day all week; cell 11 near Lion Rock unfishable today- near rock; had to choose another cell randomly (8); very foggy too
 PBT01_09,PB,MPA,July,20,2009,Patriot,Joe Kucera,Jessica Rhodes,9,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
@@ -468,6 +510,7 @@ PBT01_21,PB,MPA,July,19,2021,Flying Fish,Wayne (Patriot),Westin,5,"1) LCD bar + 
 PBT01_22,PB,REF,July,18,2022,Patriot,Jay,Ryan,8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","Colder as day went on, treefish, wind and swell competing"
+PBT01_23,PB,MPA,July,17,2023,Patriot,Ryan,Josh,10,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","Foggy to clearing weather, calm seas, swell consistent 0-1 ft, ran out of bait last 2 drifts, cabezon, 2 greenling (1 Male, 1 Female)"
 PBT02_07,PB,REF,August,22,2007,Fiesta,Michele Leary,Jessica Rhodes,12,Bait: frozen squid; white shrimp flies; misc. colors/weights lingcod bars.,
 PBT02_08,PB,REF,July,21,2008,Pacific Horizon,Sal Rocha,Frank Garibay,10,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 PBT02_09,PB,REF,July,21,2009,Pacific Horizon,Sal Rocha,Frank Garibay,12,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
@@ -492,6 +535,7 @@ PBT02_21,PB,REF,July,20,2021,Flying Fish,Wayne (Patriot),Westin,7,"1) LCD bar + 
 PBT02_22,PB,MPA,July,19,2022,Patriot,Jay,Ryan,8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","wind picked up in afternoon, lots of gophers, foggy!"
+PBT02_23,PB,REF,July,18,2023,Patriot,J,Josh,9,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","1 sea lion in 3rd cell, slow compared w/ MPA, cloudy to clearing, variable fog, tons of lingcod, swell picked up then slowed down"
 PBT03_07,PB,REF,August,27,2007,Patriot,Sal Rocha,Tom Foss,10,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 PBT03_08,PB,MPA,July,28,2008,Pacific Horizon,Sal Rocha,Frank Garibay,7,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 PBT03_09,PB,MPA,August,10,2009,Patriot,Joe Kucera,Jessica Rhodes,9,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
@@ -516,6 +560,7 @@ PBT03_21,PB,REF,August,23,2021,Avenger,Brad,Meghan,7,"1) LCD bar + shrimpfly tea
 PBT03_22,PB,MPA,August,29,2022,Avenger,Brad,Bailey,8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","kelpy in beginning, sea lions!, fast day"
+PBT03_23,PB,REF,August,15,2023,Avenger,Brad,Mansur,8,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","quiet day, good weather, low catch, beautiful day [COVID temperature thermometer was used for water temp, may not be accurate]"
 PBT04_07,PB,MPA,August,28,2007,Pacific Horizon,Dustin Selck,Joe Saputo,8,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,Dean Wendt and Laura Ashbaugh (intern videographer from Telegram Tribune) were on board today; to total 9 anglers: Dean or one of the science crew rotated in to fish
 PBT04_08,PB,REF,July,29,2008,Patriot,Joe Kucera,Sam Mejilla,10,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 PBT04_09,PB,REF,August,11,2009,Pacific Horizon,Sal Rocha,Nate Moore,12,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
@@ -540,6 +585,8 @@ PBT04_21,PB,MPA,August,24,2021,Avenger,Brad,Meghan,8,"1) LCD Bar + shrimpfly tea
 PBT04_22,PB,REF,August,30,2022,Avenger,Brad,Bailey,7,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","Beautiful day, no CTD, boat turned around for Forrest, great clarity, whales, dolphins and sea lions"
+PBT04_23,PB,MPA,August,16,2023,Avenger,Brad,Mansur,6,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","grey all day, medium wind & swell. China!!! Treefish!! 
+Water temp taken with COVID forehead temperature gauge"
 PBT05_07,PB,REF,September,18,2007,Fiesta,Michele Leary,Mike Lane,8,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,One of the science crew rotated in to fish
 PBT05_08,PB,REF,August,11,2008,Pacific Horizon,Sal Rocha,Frank Garibay,7,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 PBT05_09,PB,MPA,September,09,2009,Pacific Horizon,Sal Rocha,Frank Garibay,10,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
@@ -564,6 +611,7 @@ PBT05_21,PB,REF,September,8,2021,Patriot,Jay,Ryan,6,"1) LCD bar + shrimpfly teas
 PBT05_22,PB,MPA,September,12,2022,Flying Fish,Wayne (Patriot),Westin,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)",
+PBT05_23,PB,MPA,August,30,2023,Flying Fish,Wayne,Westin,9,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","Sunny and swelly, dolphins!, gophers!!!"
 PBT06_07,PB,MPA,September,19,2007,Fiesta,Michele Leary,Mike Lane,9,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 PBT06_08,PB,MPA,August,18,2008,Patriot,Joe Kucera,Sam Mejilla,12,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,"More sanddabs and inverts than usual (squid, octopus, sea star, sponges, cucumbers)"
 PBT06_09,PB,REF,September,10,2009,Patriot,Joe Kucera,Jessica Rhodes,5,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
@@ -589,6 +637,7 @@ ocean: blue - blue/green"
 PBT06_22,PB,REF,September,13,2022,Flying Fish,Wayne (Patriot),Westin,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)
 2) red/white shrimpfly, no bait
 3) red/white shrimpfly + squid bait (mantle strips only)","windy in AM, picking up in afternoon. Last trip of season!! Marcy slayed"
+PBT06_23,PB,REF,August,31,2023,Flying Fish,Wayne,Westin,9,"1) LCD bar + shrimpfly teaser, 2) red/white shrimpfly, no bait, 3) red/white shrimpfly + squid bait (mantle strips only)","drifts faster than yesterday, hard to stay in cells, CTD not taken last cell because instrument issues, foggy/grey all day"
 PBT07_07,PB,REF,September,24,2007,Patriot,Sal Rocha,Frank Garibay,6,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 PBT07_08,PB,MPA,August,26,2008,Pacific Horizon,Sal Rocha,Frank Garibay,9,Bait: frozen squid; white & red shrimp flies; misc. colored/weights lingcod bars.,
 PBT07_09,PB,MPA,September,15,2009,Pacific Horizon,Sal Rocha,Frank Garibay,7,"Bait: frozen squid strips; randomly-assigned white & red shrimp flies 1 lb. sinkers; misc. colored lingcod bars, weight varied throughout day.",
@@ -643,6 +692,7 @@ PLT01_19,PL,REF,August,12,2019,Kahuna,Brian Cutting,Josh Abbey,13,"1. Lingcod ba
 PLT01_20,PL,MPA,August,11,2020,New Horizon,Rod Stoltz,Alfredo Chiappini,4,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Only 4 anglers today, no station #6 & #12"
 PLT01_21,PL,MPA,August,09,2021,Kahuna,Brian Cutting,Matt Cutting,8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",RECAPTURED Copper; no angler at station 6; bit windy for cells 10 and 9; lots of moon jellies and sea nettles
 PLT01_22,PL,REF,August,02,2022,New Horizon,Jackson,Alfredo Chiappini,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Really nice weather; New Captain to the program; One drift in cell PL03 was outside grid cell but may be within boundary for exclusion; New science crew and first trip of the season - lots of training; Retained fish for NMFS
+PLT01_23,PL,REF,July,25,2023,Kahuna,Joe Stagnaro,Calvin Anderson,13,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Pretty bad weather, couldn't make it to the MPA, switched to REF day. OPC day"
 PLT02_07,PL,MPA,August,07,2007,Caroline,David Lemon,Larry Schumacher,10,"Bait: Frozen calamari, Lingcod bars=  8 oz, purple. Shrimp flies (1 type): red (mainly),yellow and white (white).","Robin Robinson (photographer) on board. Don Maruska and NH, LL and EN (Cal Poly crew) shared stations 6, 7 and 14 (fish were credited to Don ). 3 anglers rotated among stations 1,2, and 8. We stopped fishing in cell 19 b/c it was too deep"
 PLT02_08,PL,MPA,July,29,2008,Caroline,David Lemon,Larry Schumacher,14,"Red & white shrimp flies, frozen squid bait, 10 oz bars, 4&5 oz lead sinkers.",Great day! Few floaters. We used the milk crate to descend fishes often.
 PLT02_09,PL,MPA,July,21,2009,Caroline,David Lemon,Larry Schumacher,8,"8 oz. sinkers and lingcod bars, shrimp flies (1/2 red, 1/2 white) and squid bait. Darrell Bunse at Station 1 using experimental lingcod bar rings.","Angler 12 didn't fish from his station for the 1st grid cell. Cold, windy, rough weather. Completed 10 min. drifts. Strong current. End of day: James Lindholm & students Heather Kramp and Jessica Watson did blue rockfish acoustic tag work in Carmel Bay."
@@ -659,6 +709,7 @@ PLT02_19,PL,MPA,August,13,2019,Kahuna,Brian Cutting,Josh Abbey,9,"1. Lingcod bar
 PLT02_20,PL,MPA/REF,August,12,2020,New Horizon,Jared,Kevin Klein,6,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Overall, fast pace MPA, slower REF cells, Lots of recaps, deckhand forgot squid, realized when got to Carmel Bay so had to turn around and get it"
 PLT02_21,PL,MPA/REF,August,10,2021,Kahuna,Brian Cutting,Matt Cutting,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","1st drift in cell 12 was fast, GPS died on the 2nd drift in cell 12 - coordinates did not save after that (used start and end lat/long for caught fishes table), otters in kelp at cell 3, slower fishing and lots of snags towards the stern in cell 2"
 PLT02_22,PL,MPA,August,03,2022,New Horizon,Mat Arcoleo,Daniel Gross,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Wind and waves picked up in afternoon; sampled two full cells then fog rolled in and captain was not comfortable to fish in cell 8 or 7; moved back to 12 and tried to drift but captain made us head back into port
+PLT02_23,PL,MPA,September,13,2023,Kahuna,Joe Stagnaro,Mike Juanes,8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","decent weather, light winds but large-ish swell, 1 tag recapture, so many fish, lots of floaters"
 PLT03_07,PL,REF,August,08,2007,Caroline,David Lemon,Larry Schumacher,5,"Bait: Frozen calamari, Lingcod bars= Misc. colors and weights (4, 6, 8 and 10 oz). Shrimp flies (1 type): red (mainly), yellow and white.",6th station fished by the science crew.
 PLT03_08,PL,REF,July,30,2008,Caroline,David Lemon,Larry Schumacher,12,"Red & white shrimp flies, frozen squid bait, 10 oz bars, 4-5 oz lead sinkers.",Super slow fishing for the last two grid cells. Good fishing in beginning. Strong current. James Lindholm and Jessica Watson helped and did work (caught fish) for their acoustic tagging project (blue rockfish).
 PLT03_09,PL,REF,July,22,2009,Caroline,David Lemon,Larry Schumacher,9,"8 oz. sinkers and lingcod bars, shrimp flies (1/2 red, 1/2 white) and squid bait. Darrell Bunse at Station 1 using experimental lingcod bar rings.","Strong current. Cold and windy. Boat rocking around a lot. Switched from 15 to 10 min. drifts towards the end of the day due to bad weather. Birds hanging out by the boat towards the end of the day. S. Lucas, J. Baba, and S. Asianian volunteering."
@@ -675,6 +726,7 @@ PLT03_19,PL,MPA/REF,August,14,2019,Kahuna,Brian Cutting,Josh Abbey,9,"1. Lingcod
 PLT03_20,PL,REF,August,13,2020,New Horizon,Danny Frank,Andrew Zazeski,6,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Colleting for MPSL and NMFS, reatained Gopher, olive and blue composite"
 PLT03_21,PL,REF,August,11,2021,Kahuna,Brian Cutting,Matt Cutting,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Retained 36 fish for NMFS (Gopher, Copper, Blue, China RF), slower day of fishing"
 PLT03_22,PL,MPA/REF,August,05,2022,New Horizon,Mat Arcoleo,Daniel Gross,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Great weather; decent sized Vermilions and Coppers in the MPA; lots of smaller Vermilion in the REF cells; 6 OPC personnel came out with us today
+PLT03_23,PL,MPA/REF,September,14,2023,Kahuna,Joe Stagnaro,Mike Juanes,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Great weather, low winds, small swells. Only 9 anglers (no 4, 9 , and 14)"
 PLT04_07,PL,MPA,August,09,2007,Caroline,David Lemon,Larry Schumacher,8,"Bait: Frozen calamari, Lingcod bars= Misc. colors and weights (4, 6, 8 and 10 oz). Shrimp flies (1 type): red (mainly), yellow and white.",There were a lot of harbor seals following the boat. Went down from 9 to 6 anglers later on in order to minimize mortalities
 PLT04_08,PL,MPA,July,31,2008,Caroline,David Lemon,Larry Schumacher,10,"Red & white shrimp flies, frozen squid bait, 10 oz bars, 8 oz lead sinkers.",Deckhand Larry Schumacher switched to 8 oz weights because of the wind yesterday in anticipation of wind today.  We caught a lot of fish in grid cell 11 and even more in grid cell 7. It was a beautiful and good day of fishing!
 PLT04_09,PL,MPA,July,23,2009,Caroline,David Lemon,Larry Schumacher,8,"1/2 red, 1/2 white shrimp flies, squid bait. 8 oz sinkers, 8 oz lingcod bars. Darrell Bunse at Station 1 using experimental lingcod bar rings.",Warmer and calmer than previous day. Still lower catch than expected. Some bird/seal/sea lion interaction. Experienced some current. Fishing in/near kelp. Jessica Watson and Heather Kramp volunteering.
@@ -691,6 +743,7 @@ PLT04_19,PL,REF,September,17,2019,New Horizon,Danny Frank,Kevin Klein,12,"1. Lin
 PLT04_20,PL,REF,September,08,2020,Kahuna,Brian Cutting,Matthew Cutting,6,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Windy morning at cells 15 + 16, less wind cells 5 + 2 but more swell, collecting for NMFS"
 PLT04_21,PL,MPA,September,07,2021,New Horizon,Jared,Alfredo,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","2 recaptured coppers, cell 6 was kelpy, cell 11 was foggy and full of pinacles, cell 8 was deep - hard to find shallower areas to fish, few ocean whitefish in cell 6"
 PLT04_22,PL,MPA/REF,August,30,2022,Chubasco,JJ Rastler,Alfredo Chiappini,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Gorgeous weather; a few Copper recaptures; Treefish and Cabezon; Snags on last cell
+PLT04_23,PL,REF,October,02,2023,Chubasco,JJ,Kevin,11,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Kind of swelly, very slow day, sunny afternoon, madison's first trip, 3 anglers not fishing for most of day"
 PLT05_07,PL,MPA,September,24,2007,Caroline,David Lemon,Larry Schumacher,12,"Bait: Frozen squid, Lingcod bars= Misc. colors and 4 to 10 oz weights, with single hooks. Shrimp flies (2 types): red and white",There were a lot of harbor seals and a lot of seal predation.
 PLT05_08,PL,REF,August,25,2008,Caroline,David Lemon,Larry Schumacher,12,"Half red and half white shrimp flies, squid bait, 6 oz lingcod bars, 6 oz. lead weights.","Weather was not very great (Foggy, then overcast, with a big swell and high winds). Steve Goodall came aboard as a photograher for the day. Low catch.  Aggressive pelicans.  Deeper water but less relief."
 PLT05_09,PL,MPA,August,10,2009,Caroline,David Lemon,Larry Schumacher,9,"1/2 red, 1/2 white shrimp flies, squid bait. 8 oz sinkers, 8 oz lingcod bars.",Captain Lemon fished in an alternate grid cell due to weather.  Seals scaring off the fish. Extra drifts completed at the end of the day to catch blue rockfish for CSUMB acoustic tag project with H. Kramp and J. Watson. D. Adams volunteering.
@@ -706,6 +759,7 @@ PLT05_19,PL,MPA/REF,September,18,2019,New Horizon,Rod Stoltz,Andrew Zazeski,8,"1
 PLT05_20,PL,MPA/REF,September,09,2020,Kahuna,Brian Cutting,Matthew Cutting,6,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Cell 1 busy, cabezon, copper recaps, slow fishing cell 5 and 1 with good weather and flat/calm seas, caught a mackerel"
 PLT05_21,PL,MPA/REF,September,08,2021,New Horizon,Jared,Daniel,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",TWO RECAPTURED coppers - tag #43220 and #43218; windy with a lot of swell; lost a lot of gear; lots of kelp
 PLT05_22,PL,MPA,August,31,2022,New Horizon,Mat Arcoleo,Kevin Klein,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Very windy, Shortened drifts to 10 min, Lots of snags with each other, Fast drift"
+PLT05_23,PL,MPA/REF,October,13,2023,New Horizon,Rod,Kayla,10,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 PLT06_07,PL,REF,September,25,2007,Caroline,David Lemon,Larry Schumacher,8,"Bait: Frozen squid, Lingcod bars= Misc. colors and 6 and 8 oz weights, with single hooks. Shrimp flies (2 types): red and white","Very clear water today, fish scared away when we dropped our lines in."
 PLT06_08,PL,MPA,August,26,2008,Caroline,David Lemon,Larry Schumacher,10,"Half red and half white shrimp flies, squid bait, 10 oz lingcod bars, 6 oz. lead weights.","Rough weather expected to worsen so only did 10 min. drifts (3 drifts/cell). Big swell, low wind.Steady catch.Lost the Ace Calloway. Aggressive brown pelicans ate some fish.  Fished the edge of the kelp beds all day. Had to reel up to catch up on tagging."
 PLT06_09,PL,REF,August,11,2009,Caroline,David Lemon,Larry Schumacher,9,"1/2 red, 1/2 white shrimp flies, squid bait. 8 oz sinkers, 8 oz lingcod bars.","Caught live squid. Captain Lemon said: lots of jellies in the water, our sites are getting ""hammered,"" and the seals are affecting our catch (they follow the boat all day).Lurking pelicans. Near kelp beds=snags. Volunteers: D. Adams, J. Watson, H. Kramp."
@@ -721,6 +775,7 @@ PLT06_19,PL,MPA,September,19,2019,New Horizon,Rod Stoltz,Alfredo Chiappini,8,"1.
 PLT06_20,PL,MPA,September,10,2020,Kahuna,Brian Cutting,Matthew Cutting,7,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Cell 6 slow with big vermillions, coppers, and some gophers and blues. Lots of vermillions todays. Caught two ocean whitefish in cell fize. Fast fishing in cells 11 and 12. Three people fishing fly"
 PLT06_21,PL,REF,September,09,2021,New Horizon,Rod Stoltz,Daniel,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Retained 40 fish for NMFS (Olv, Rsy, Cpr, Gpr, Blu, Ytl); rolling swell throughout the day - 5x5 ft/sec; pretty fast fishing for reference cell; only 1 ling today"
 PLT06_22,PL,REF,August,26,2022,New Horizon,Joe Stagnaro,Daniel,12,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Lots of snags, Logs of Rosy's, Collected fish for NMFS, New Captain on board"
+PLT06_23,PL,MPA,October,25,2023,New Horizon,Andrew,Jeremiah,8,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",No station 8
 PLT07_07,PL,REF,September,26,2007,Caroline,David Lemon,Larry Schumacher,9,"Bait: Frozen squid, Lingcod bars= Misc. colors and 6 and 8 oz weights, with single hooks. Shrimp flies (2 types): red and white",Mariah Boyle came to help the science crew. A lot of kelp and clear water.
 PLT07_08,PL,REF,August,27,2008,Caroline,David Lemon,Larry Schumacher,10,"Half red and half white shrimp flies, squid bait, 6 oz lingcod bars, 6 oz. lead weights.",Killer whales spotted on the way to Yankee Point.  Due to high swell we fished cell#18 because cell#16 (the alternative) was too rocky. Strong southerly current.
 PLT07_09,PL,MPA,August,12,2009,Caroline,David Lemon,Larry Schumacher,9,"1/2 red and 1/2 white shrimp flies, squid bait, lingcod bars (8oz to 6oz near end of trip, last four drifts), 8 oz sinkers.","Seals seem to affect our catch. We moved to try to get away from them, but they followed. Overcast, cold, misty."
@@ -754,63 +809,75 @@ SPT01_19,SP,MPA/REF,July,25,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY
 SPT01_20,SP,MPA/REF,August,11,2020,Huli Cat,Tom Mattusch,Mike Cabanas,6,"BAR, FLY, BAT",
 SPT01_21,SP,MPA/REF,August,3,2021,Huli Cat,Tom Mattusch,Mike Cabanas,9,"BAR, FLY, BAT","Smallest fish: 3-way tie; Rosies: Kevin (26cm), Andrew (25.5); First lingcod: WIll"
 SPT01_22,SP,MPA/ REF,September,26,2022,Take Five,Ryan Giammona,Josh Peterson,3,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Recaptures (1)
+SPT01_23,SP,MPA/REF,August,09,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 SPT02_17,SP,MPA/REF,September,28,2017,Huli Cat,Tom Mattusch,Donovan Ash & Mike Cabanas,11,"baited shrimp flies, unbaited shrimp flies, Lingcod bars",no angler 9
 SPT02_18,SP,MPA/REF,August,29,2018,Huli Cat,Tom Mattusch,"Mike Cabanas,Donovan Ash",10,"baited shrimp flies, unbaited shrimp flies, cod bars",
 SPT02_19,SP,MPA/REF,July,26,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 SPT02_20,SP,MPA/REF,August,12,2020,Huli Cat,Tom Mattusch,Mike Cabanas,6,"BAR, FLY, BAT","Yelloweye from Reel Magic caught @ (38.61861111, -123.41027778) 115' depth, 61 cm length, 11 lbs, Tag B05062"
 SPT02_21,SP,MPA/REF,August,7,2021,Huli Cat,Tom Mattusch,Mike Cabanas,9,"BAR, FLY, BAT",
 SPT02_22,SP,MPA/ REF,October,03,2022,New Captain Pete,Mike Cabanas,Mike Juanes,10,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Recaptures (3)
+SPT02_23,SP,MPA/REF,August,10,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 SPT03_18,SP,MPA/REF,August,30,2018,Huli Cat,Tom Mattusch,Mike Cabanas,12,"baited shrimp flies, unbaited shrimp flies, cod bars",
 SPT03_19,SP,MPA/REF,July,27,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 SPT03_20,SP,MPA/REF,August,14,2020,Huli Cat,Tom Mattusch,Mike Cabanas,6,"BAR, FLY, BAT",THREE TAG RECAPTURES!
 SPT03_21,SP,MPA/REF,August,8,2021,Huli Cat,Tom Mattusch,Mike Cabanas,8,"BAR, FLY, BAT",
 SPT03_22,SP,MPA/ REF,October,06,2022,New Captain Pete,Mike Cabanas,Bradley Titus,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+SPT03_23,SP,MPA/REF,August,16,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 SPT04_18,SP,MPA/REF,September,18,2018,Huli Cat,Tom Mattusch,Mike Cabanas,12,"baited shrimp flies, unbaited shrimp flies, cod bars",
 SPT04_19,SP,MPA/REF,August,20,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 SPT04_20,SP,MPA/REF,September,9,2020,Huli Cat,Tom Mattusch,Mike Cabanas and Zach Hassan,6,"BAR, FLY, BAT",
 SPT04_21,SP,MPA/REF,September,1,2021,Huli Cat,Tom Mattusch,Mike Cabanas. Jack,8,"BAR, FLY, BAT",
 SPT04_22,SP,MPA/ REF,October,07,2022,Take Five,Ryan Giammona,Josh Peterson,3,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
+SPT04_23,SP,MPA/REF,August,17,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 SPT05_18,SP,MPA/REF,September,20,2018,Huli Cat,Tom Mattusch,Mike Cabanas,12,"baited shrimp flies, unbaited shrimp flies, cod bars",
 SPT05_19,SP,MPA/REF,August,23,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 SPT05_20,SP,MPA/REF,September,10,2020,Huli Cat,Tom Mattusch,Mike Cabanas and Zach Hassan,6,"BAR, FLY, BAT","IF FH, CHANGE CONDITION TO 4"
 SPT05_21,SP,MPA/REF,September,3,2021,Huli Cat,Tom Mattusch,"Mike Cabanas, Jack",7,"BAR, FLY, BAT",
 SPT05_22,SP,MPA/ REF,October,20,2022,New Captain Pete,Mike Cabanas,Mike Juanes,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)","Only sampled three sites, because we finished sampling our third site fairly late and needed to return before dark."
+SPT05_23,SP,MPA/REF,September,05,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 SPT06_18,SP,MPA/REF,September,21,2018,Huli Cat,Tom Mattusch,,10,"baited shrimp flies, unbaited shrimp flies, cod bars",
 SPT06_19,SP,MPA/REF,August,25,2019,Huli Cat,Tom Mattusch,Mike Cabanas,12,"BAR, FLY, BAT",Leave Site Blank because we fished MPA and REF
 SPT06_21,SP,MPA/REF,September,4,2021,Huli Cat,Tom Mattusch,"Mike Cabanas, Jack",8,"BAR, FLY, BAT",
 SPT06_22,SP,MPA/ REF,October,21,2022,New Captain Pete,Mike Cabanas,Mike Juanes,9,"1. Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",Shortened drifts to 10 minutes to accommodate the wind picking up later in the day
+SPT06_23,SP,MPA/REF,September,07,2023,New Sea Angler,Rick Powers,Dana Amundsen,12,"Lingcod bar and shrimpfly teaser, 2. red/white shrimpfly, no bait, 3. red/white shrimpfly plus squid bait (mantle strips only)",
 SWT01_17,SW,REF,August,16,2017,Sea Star,Joe Cacciola,Kane,12,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 SWT01_18,SW,MPA/REF,July,18,2018,Sea Star,Joe Cacciola,"Ty Spencer, Daniel Tulcan",12,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 SWT01_19,SW,MPA/REF,July,10,2019,Sea Star,Joe Cacciola,"James, Steve Zuniga",14,"BAT, DPR, SBT",
 SWT01_20,SW,MPA/REF,August,4,2020,Sea Star,Joe Cacciola,"James, Paul",6,"BAT, DPR, SBT","Captain Joe notes that the areas fished today were previously covered by kelp, but do not have kelp anymore."
 SWT01_21,SW,MPA/REF,July,1,2021,Sea Star,Joe Cacciola,Kane,8,"BAT, DPR, SBT",Hobo/descender rig lost
 SWT01_22,SW,MPA/REF,June,30,2022,Sea Star,Joe Cacciola,"Bobby, Paul",15,"BAT, DPR, SBT",
+SWT01_23,SW,MPA/REF,July,18,2023,Sea Star,Joe Cacciola,"Paul, Bobby",17,"BAT, DPR, SBT",
 SWT02_17,SW,MPA,August,17,2017,Sea Star,Joe Cacciola,Kane,11,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 SWT02_18,SW,MPA/REF,July,19,2018,Sea Star,Joe Cacciola,"Daniel Tulcan, Steve Zuniga",13,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 SWT02_19,SW,MPA/REF,July,11,2019,Sea Star,Joe Cacciola,"James, Paul",15,"BAT, DPR, SBT",
 SWT02_20,SW,MPA/REF,August,5,2020,Sea Star,Joe Cacciola,"James, Paul",6,"BAT, DPR, SBT",
 SWT02_21,SW,MPA/REF,July,2,2021,Sea Star,Joe Cacciola,Kane,7,"BAT, DPR, SBT",
 SWT02_22,SW,MPA/REF,July,01,2022,Sea Star,Joe Cacciola,"Bobby, Paul",13,"BAT, DPR, SBT",
+SWT02_23,SW,MPA/REF,July,19,2023,Sea Star,Joe Cacciola,"Paul, Bobby",17,"BAT, DPR, SBT",
 SWT03_17,SW,MPA,August,22,2017,Sea Star,Joe Cacciola,Kane,10,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 SWT03_18,SW,MPA/REF,August,16,2018,Sea Star,Joe Cacciola,"Daniel Tulcan, Steve Zuniga",17,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 SWT03_19,SW,MPA/REF,July,25,2019,Sea Star,Joe Cacciola,James,15,"BAT, DPR, SBT",
 SWT03_20,SW,MPA/REF,August,25,2020,Sea Star,Joe Cacciola,James,6,"BAT, DPR, SBT",
 SWT03_21,SW,MPA/REF,July,20,2021,Sea Star,Joe Cacciola,Kane,6,"BAT, DPR, SBT",
 SWT03_22,SW,MPA/REF,July,20,2022,Sea Star,Joe Cacciola,Bobby,15,"BAT, DPR, SBT","This trip was cut short because an angler became very seasick. We completed both reference cells, but terminated sampling efforts after the second drift of our first MPA grid cell."
+SWT03_23,SW,MPA/REF,August,01,2023,Sea Star,Joe Cacciola,Bobby,16,"BAT, DPR, SBT",
 SWT04_17,SW,REF,August,23,2017,Sea Star,Joe Cacciola,Kane,12,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 SWT04_18,SW,MPA/REF,August,17,2018,Sea Star,Joe Cacciola,Daniel Tulcan,11,"Baited Shrimp Fly, Double Dropper Loop with Bait, Swimbaits",
 SWT04_19,SW,MPA/REF,August,14,2019,Sea Star,Joe Cacciola,James,12,"BAT, DPR, SBT",
 SWT04_20,SW,MPA/REF,August,26,2020,Sea Star,Joe Cacciola,James,6,"BAT, DPR, SBT",
 SWT04_21,SW,MPA/REF,July,21,2021,Sea Star,Joe Cacciola,Kane,9,"BAT, DPR, SBT",Angler #4 came in to fish for 2 grid cells because angler #2 stopped fishing
 SWT04_22,SW,MPA/REF,July,21,2022,Sea Star,Joe Cacciola,Bobby,16,"BAT, DPR, SBT",
+SWT04_23,SW,MPA/REF,August,02,2023,Sea Star,Joe Cacciola,Bobby,16,"BAT, DPR, SBT",
 SWT05_19,SW,MPA/REF,August,15,2019,Sea Star,Joe Cacciola,James,15,"BAT, DPR, SBT",
 SWT05_20,SW,MPA/REF,September,9,2020,Sea Star,Joe Cacciola,James,6,"BAT, DPR, SBT",
 SWT05_21,SW,MPA/REF,August,9,2021,Sea Star,Joe Cacciola,Kane,6,"BAT, DPR, SBT",Angler #9 used wrong gear type (DPR instead of BAT)
 SWT05_22,SW,MPA/REF,August,10,2022,Sea Star,Joe Cacciola,"Bobby, Paul",15,"BAT, DPR, SBT",
+SWT05_23,SW,MPA/REF,August,08,2023,Sea Star,Joe Cacciola,Bobby,15,"BAT, DPR, SBT",
 SWT06_19,SW,MPA/REF,August,28,2019,Sea Star,Joe Cacciola,James,15,"BAT, DPR, SBT",
 SWT06_20,SW,MPA/REF,September,10,2020,Sea Star,Joe Cacciola,James,6,"BAT, DPR, SBT",
 SWT06_21,SW,MPA/REF,August,10,2021,Sea Star,Joe Cacciola,Kane,9,"BAT, DPR, SBT",
 SWT06_22,SW,MPA/REF,August,11,2022,Sea Star,Joe Cacciola,"Bobby, Paul",15,"BAT, DPR, SBT",Angler #6 did not fish the first grid cell
+SWT06_23,SW,MPA/REF,August,09,2023,Sea Star,Joe Cacciola,Bobby,13,"BAT. DPR, SBT",
 TDT01_18,TD,REF,July,13,2018,Toni Rae II,Dave Rominger,NA,4,"BAT, FLY, BAR, SBT",No GoPro recordings for this trip
 TDT01_19,TD,REF,June,29,2019,Toni Rae II,Jon Collins,NA,4,"BAT, FLY, BAR, SBT","Flat calm day, lake like conditions. Slow drift"
 TDT02_18,TD,REF,July,26,2018,Toni Rae II,Dave Rominger,NA,4,"BAT, FLY, BAR, SBT","Patrick's Point. Tag gun broken during beginning drifts, few tagged fish"
@@ -829,34 +896,40 @@ TMT01_19,TM,MPA,June,18,2019,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT","s
 TMT01_20,TM,MPA,July,23,2020,Kyndall Lynn,Kurt Akin,Richard,0,"BAT, FLY, BAR","3 science crew, 3 anglers (1 science crew, one deckhand, and captain were anglers)"
 TMT01_21,TM,MPA,June,23,2021,Kyndall Lynn,Kurt Akin,Richard,4,"FLY, BAT, BAR, SBT",
 TMT01_22,TM,MPA,July,07,2022,Kyndall Lynn,Kurt Akin,Richard,2,"FLY, BAT, SBT, SFS, BAR, SFB",
+TMT01_23,TM,MPA,June,10,2023,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler -BAT:H084, FLY: H056, BAR/SFB: H097, SBT/SFS: A656"
 TMT02_17,TM,REF,July,25,2017,Kyndall Lynn,Kurt Akin,Jeremy Quiroga,4,"BAT, FLY, BAR, SBT",
 TMT02_18,TM,REF,July,11,2018,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT",No GoPro recordings for this trip
 TMT02_19,TM,REF,June,19,2019,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT","Washing machine like conditions, Fast drifts 1-1.5 knots"
 TMT02_20,TM,REF,July,24,2020,Kyndall Lynn,Kurt Akin,Richard,0,"BAT, FLY, BAR","3 science crew, 3 anglers (1 science crew, one deckhand, and captain were anglers)"
 TMT02_21,TM,REF,June,24,2021,Kyndall Lynn,Kurt Akin,Richard,4,"FLY, BAT, BAR, SBT",
 TMT02_22,TM,REF,July,08,2022,Kyndall Lynn,Kurt Akin,Richard,3,"FLY, BAT, SBT, SFS, BAR, SFB",
+TMT02_23,TM,REF,June,11,2023,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler -BAT: H100, FLY: H056, BAR/SFB: H097, SBT/SFS: A656"
 TMT03_17,TM,MPA,July,30,2017,Kyndall Lynn,Kurt Akin,Jeremy Quiroga,4,"BAT, FLY, BAR, SBT",
 TMT03_18,TM,MPA,July,23,2018,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT",mount on GoPro stick broken; no video recorded
 TMT03_19,TM,MPA,July,8,2019,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT",
 TMT03_20,TM,MPA,August,04,2020,Kyndall Lynn,Kurt Akin,Richard,0,"BAT, FLY, BAR","3 science crew, 3 anglers (1 science crew, one deckhand, and captain were anglers)"
 TMT03_21,TM,MPA,September,7,2021,Kyndall Lynn,Kurt Akin,Richard,4,"FLY, BAT, BAR, SBT",3 volunteer anglers with limited fishing experience.
 TMT03_22,TM,MPA/REF,July,12,2022,Kyndall Lynn,Kurt Akin,Richard,3,"FLY, BAT, SBT, SFS, BAR, SFB",
+TMT03_23,TM,MPA,July,08,2023,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, captain contributed as angler -BAT: B138, FLY: H104, BAR/SFB: A872, SBT/SFS: A488"
 TMT04_17,TM,REF,July,31,2017,Kyndall Lynn,Kurt Akin,Jeremy Quiroga,4,"BAT, FLY, BAR, SBT",
 TMT04_18,TM,REF,July,24,2018,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT",mount on GoPro stick broken; no video recorded. Tagging gun had a lot of trouble
 TMT04_19,TM,REF,July,9,2019,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT",
 TMT04_20,TM,REF,August,05,2020,Kyndall Lynn,Kurt Akin,Richard,0,"BAT, FLY, BAR","3 science crew, 3 anglers (1 science crew, one deckhand, and captain were anglers)"
 TMT04_21,TM,REF,September,8,2021,Kyndall Lynn,Kurt Akin,Richard,4,"FLY, BAT, BAR, SBT",
 TMT04_22,TM,MPA,September,10,2022,Kyndall Lynn,Kurt Akin,Richard,3,"FLY, BAT, SBT, SFS, BAR, SFB",
+TMT04_23,TM,REF,July,09,2023,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, AM contributed as angler -BAT: A488, FLY: H102, BAR/SFB: B138, SBT/SFS: A872"
 TMT05_17,TM,MPA,September,5,2017,Kyndall Lynn,Kurt Akin,Jeremy Quiroga,4,"BAT, FLY, BAR, SBT",
 TMT05_18,TM,MPA,August,6,2018,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT",Brown water and slow rockfish bite. Very slow drift -- not much ground covered on drifts. Saw boat trolling in the reserve. Drift 1 and 2 -- No fish
 TMT05_19,TM,MPA,August,12,2019,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT",
 TMT05_20,TM,MPA,August,18,2020,Kyndall Lynn,Kurt Akin,"Richard, Tony",0,"BAT, FlY, BAR","2 science crew, 3 anglers (1 science crew, two deckhands, and captain were anglers)"
 TMT05_21,TM,MPA,September,20,2021,Kyndall Lynn,Brandon,NA,3,"FLY, BAT, BAR","Only 3 anglers, did not fish swimbait. Anglers did not have a lot of experience. New captian."
 TMT05_22,TM,REF,September,11,2022,Kyndall Lynn,Kurt Akin,Richard,3,"FLY, BAT, SBT, SFS, BAR, SFB",
+TMT05_23,TM,MPA,August,16,2023,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler -BAT: H110, FLY: H084, BAR/SFB: H097, SBT/SFS: A565"
 TMT06_17,TM,REF,September,6,2017,Kyndall Lynn,Kurt Akin,Jeremy Quiroga,4,"BAT, FLY, BAR, SBT",
 TMT06_18,TM,REF,August,7,2018,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT",Brown water
 TMT06_19,TM,REF,August,13,2019,Kyndall Lynn,Kurt Akin,NA,4,"BAT, FLY, BAR, SBT","Very calm weather, slow drift. Below average catches"
 TMT06_20,TM,REF,August,19,2020,Kyndall Lynn,Kurt Akin,"Richard, Tony",0,"BAT, FLY, BAR","2 science crew, 3 anglers (1 science crew, two deckhands, and captain were anglers)"
 TMT06_21,TM,REF,September,21,2021,Kyndall Lynn,Kurt Akin,NA,3,"FLY, BAT, BAR","Only 3 anglers, did not fish swimbait."
+TMT06_23,TM,REF,August,17,2023,Kyndall Lynn,Kurt Akin,Richard Masingale,3,"BAR, FLY, BAT, SBT","3 science crew, 3 volunteer anglers, deckhand contributed as angler -BAT: H110, FLY: H056, BAR/SFB: H097, SBT/SFS: A565"
 TMT07_17,TM,MPA,October,30,2017,Kyndall Lynn,Kurt Akin,Jeremy Quiroga,4,"BAT, FLY, BAR, SBT",
 TMT08_17,TM,REF,October,31,2017,Kyndall Lynn,Kurt Akin,Jeremy Quiroga,4,"BAT, FLY, BAR, SBT",
