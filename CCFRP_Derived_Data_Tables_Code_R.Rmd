@@ -1,7 +1,7 @@
 ---
 title: "CCFRP Derived Data Table Code for Length and Effort Data"
-author: "Rachel Brooks, Shelby Zeigler, Ryan Fields"
-date: "05/11/2022"
+author: "Rachel Brooks, Shelby Zeigler, Ryan Fields, Erin Johnston"
+date: "05/30/2024"
 output:
   pdf_document: default
   html_document: default
@@ -188,30 +188,109 @@ comparisons, but not for CPUE.
 
 4) Rename columns for later use
 
-```{r}
+```{r length code}
 
-## code to deal with FL and TL in mm - E Johnston 3/28/2024
-fishes.caught.all = fishes.caught.raw %>%
- merge(., drift.data.raw, by = intersect('Drift.ID','Drift.ID'), all = F) %>%  
-  # 'all = F' excludes drift information for 225 drifts that did not catch fish
- merge(.,fish.codes, by = intersect('Species.Code','Species.Code'), all = F) %>%
-  #merge common name; Drop unused Species Codes
-  mutate(Yr = str_sub(Drift.ID, 8, 9),
+## code to deal with FL and TL in mm - E Johnston revised 5/30/2024
+
+
+dont_need_conversion <- c("ANC", "BAR", "BAY", "BCO", "BID", "BLM", "BMS", "BSB", "BSK", "BSP", "BUF", "BUS", "BWN", "CAL", "CBZ", "CHN", "CHP",  'CPR', "CSA", "CSC",  "ESL", "FAN", "FLG", 'FRK', 'FST', "GAR", "GPR", "GRS", "GSB", "HAL", "HCR", "HLF", "JMK", "JSM", "KGL", "KLP", "KPB",  "LEZ", "LPS", "LSD", "MKL", "NBL",  "OPL", "OYT", 'PBO', "PGL", "PHL", "PLP", "PMK", "PSD", "PSL", "PSR", "QBK", "RAY", "RGL", "RLS", "RSL", "RSP", "RSY", "RWS", "SAL", "SDB", "SDF", "SEN", "SHP", "SHS", "SLV", "SMT", "SPF", "SQR", "SRC", "SRD", "SRG", "SRP", "SRY", "SSD", "SSL", "SSP", "STS", "SUN", "THR", "TIG", "TRE", "TSM", "TUB", "UKR", "UNK",  "WCR", "WHP",  "WID", "WLF", "WSB", "YFC", "YLE", "YTJ")
+
+need_conversion <- c("BLA","BLU","CNY","DEA","LCD","OLV","VER","WHT","YTL")
+
+spp_conversions <- data.frame(Species.Code = character(),
+                     a = character(),
+                     b = character())
+
+for(j in need_conversion){
+  species_dat <- fishes.caught.raw %>%
+    mutate(Year = str_sub(Drift.ID, 8, 9)) %>%
+    filter(Year == 23, Species.Code == j) %>%
+    drop_na(Fork.Length..mm., Total.Length..mm.) %>%
+    mutate(diff = Total.Length..mm.-Fork.Length..mm.) %>%
+    filter(diff >=0)
+  
+  spp_lm <- lm(Fork.Length..mm. ~ Total.Length..mm., data = species_dat)
+  
+  spp_conversions <- bind_rows(spp_conversions, c(Species.Code = j, a = summary(spp_lm)$coefficients[2,1], b = summary(spp_lm)$coefficients[1,1]))
+}
+
+fishes.caught.all_a = fishes.caught.raw %>%
+  merge(.,drift.data.raw,by = intersect('Drift.ID','Drift.ID'), all = F)%>%  
+  # 'all = F' EXCLUDES DRIFT INFORMATION FOR DRIFTS THAT DID NOT CATCH FISH
+  
+  merge(.,fish.codes,by = intersect('Species.Code','Species.Code'), all = F)%>%
+  #MERGE COMMON NAME; DROP UNUSED SPECIES CODES
+  mutate(Year = str_sub(Drift.ID, 8, 9),
+         Area = str_sub(Drift.ID, 1, 2),
+         Area = as.factor(Area),
+         Year = as.numeric(Year),
+         ## convert all lengths prior to 2023 to mm
+         Length..mm. = Length..cm.*10, 
+         Fork.Length..mm. = case_when(
+           ## put CP dat into FL_mm column
+           Year %in% c(07:22) & Area %in% c("BL","PB") ~ Length..mm., 
+           TRUE ~ as.numeric(Fork.Length..mm.)),
+         Total.Length..mm. = case_when(
+           ## put not CP into TL_mm column
+           Year %in% c(07:22) & Area %in% c("AN", "SP", "CP", "LJ" ,"LB", "SW", "PL", "BH", "AI", "FN", "PC", "TD", "CM", "TM") ~ Length..mm., 
+           TRUE ~ as.numeric(Total.Length..mm.)))
+
+fishes.caught.all_b <- left_join(fishes.caught.all_a, spp_conversions, by = "Species.Code")
+
+fishes.caught.all <- fishes.caught.all_b %>%
+  rename(Original.Length..cm. = Length..cm.) %>%
+  mutate(a = as.numeric(a),
+         b = as.numeric(b),
          Length..cm. = case_when(
-           Yr == 23 ~ Fork.Length..mm./10,
-           TRUE ~ as.numeric(Length..cm.)),
-         Length..cm. = round(Length..cm., digits = 0))%>%
+    Year %in% c(07:23) ~ Fork.Length..mm./10),
+    Length..cm. = round(Length..cm., digits = 0)) %>%
   mutate(Length..cm. = case_when(
-    (Yr == 23 & is.na(Length..cm.)) ~ Total.Length..mm./10,
+    Year %in% c(07:23) & 
+      is.na(Length..cm.) & 
+      Species.Code %in% dont_need_conversion ~ Total.Length..mm./10,
+    TRUE ~ as.numeric(Length..cm.)),
+    Length..cm. = round(Length..cm., digits = 0)) %>%
+  mutate(Length..cm. = case_when(
+    Year %in% c(07:23) & 
+      is.na(Length..cm.) & 
+      Species.Code %in% need_conversion ~ (Total.Length..mm.*a+b)/10,
     TRUE ~ as.numeric(Length..cm.)),
     Length..cm. = round(Length..cm., digits = 0)) %>%
   select(c(ID.Cell.per.Trip,Drift.ID, Grid.Cell.ID, Excluded.Drift.Comment, 
            Drift.Time..hrs.,Gear.Type, Station..,Species.Code, Common.Name, 
-           Length..cm.)) %>%   #Choose columns of interest
+           Length..cm.)) %>%   #CHOOSE COLUMNS OF INTEREST
   dplyr::rename(Exclude = Excluded.Drift.Comment,
                 Drift.time.Hrs = Drift.Time..hrs.,
                 Station = Station..,
                 Length.cm = Length..cm.)
+
+```
+
+
+```{r, eval = F, echo = F}
+
+## code to deal with FL and TL in mm - E Johnston 3/28/2024 - First attempt
+# fishes.caught.all = fishes.caught.raw %>%
+#  merge(., drift.data.raw, by = intersect('Drift.ID','Drift.ID'), all = F) %>%  
+#   # 'all = F' excludes drift information for 225 drifts that did not catch fish
+#  merge(.,fish.codes, by = intersect('Species.Code','Species.Code'), all = F) %>%
+#   #merge common name; Drop unused Species Codes
+#   mutate(Yr = str_sub(Drift.ID, 8, 9),
+#          Length..cm. = case_when(
+#            Yr == 23 ~ Fork.Length..mm./10,
+#            TRUE ~ as.numeric(Length..cm.)),
+#          Length..cm. = round(Length..cm., digits = 0))%>%
+#   mutate(Length..cm. = case_when(
+#     (Yr == 23 & is.na(Length..cm.)) ~ Total.Length..mm./10,
+#     TRUE ~ as.numeric(Length..cm.)),
+#     Length..cm. = round(Length..cm., digits = 0)) %>%
+#   select(c(ID.Cell.per.Trip,Drift.ID, Grid.Cell.ID, Excluded.Drift.Comment, 
+#            Drift.Time..hrs.,Gear.Type, Station..,Species.Code, Common.Name, 
+#            Length..cm.)) %>%   #Choose columns of interest
+#   dplyr::rename(Exclude = Excluded.Drift.Comment,
+#                 Drift.time.Hrs = Drift.Time..hrs.,
+#                 Station = Station..,
+#                 Length.cm = Length..cm.)
 
 ## code prior to 2023 season
 # fishes.caught.all = fishes.caught.raw %>%
@@ -401,8 +480,8 @@ length.data_reorder$Total.Angler.Hours <- NULL
 length.data_reorder$Species.Code <- NULL
 
 ### Table export for species length data
-#write.csv(length.data_reorder, file = "2007-2023_CCFRP_derived_length_table.csv",
-#                                                row.names = FALSE)
+# write.csv(length.data_reorder, file = "2007-2023_CCFRP_derived_length_table.csv",
+#                                                 row.names = FALSE)
 
 ```
 
@@ -680,7 +759,7 @@ names(AllCCFRP)[names(AllCCFRP)=="Swell_Height"]<-"Swell_Height_m"
 Reorder the columns of the data set and export final csv
 
 ```{r}
-
+# have to highlight and manually run all selected for some reason...
 #reorder column to have all trip and environmental data before fish data.
 AllCCFRP <- AllCCFRP[,c(1:11,17:24,16,12:15)]
 
