@@ -279,7 +279,7 @@ fishes.caught.all <- fishes.caught.all_b %>%
 #   filter(is.na(Length.cm))
 # 
 # check1 <- fishes.caught.all_b %>%
-#   filter(Drift.ID == "AIM1003230302")
+#   filter(Drift.ID == "TMR0818241503")
 
 ## code to deal with FL and TL in mm - E Johnston 3/28/2024 - First attempt
 # fishes.caught.all = fishes.caught.raw %>%
@@ -492,8 +492,8 @@ length.data_reorder$Total.Angler.Hours <- NULL
 length.data_reorder$Species.Code <- NULL
 
 ### Table export for species length data
- # write.csv(length.data_reorder, file = "2007-2024_CCFRP_derived_length_table.csv",
- #                                                 row.names = FALSE)
+# write.csv(length.data_reorder, file = "2007-2024_CCFRP_derived_length_table.csv",
+#                                                   row.names = FALSE)
 
 ```
 
