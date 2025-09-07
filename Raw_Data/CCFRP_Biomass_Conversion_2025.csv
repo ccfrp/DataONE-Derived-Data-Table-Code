@@ -77,7 +77,7 @@ Sargo,Anisotremus davidsonii,VRG,0.0000164,3.1266,g,mm,SL,Williams et al. 2013,1
 Scalyhead Sculpin,Artedius harringtoni,VRG,0.0000319,2.8831,g,mm,SL,used Artedius corallinus,0.8414,-0.10798,TYPICAL,used Artedius corallinus,(SL = aTL+b)cm,SL=(0.8414*TL-0.10798)*10,cm
 Senorita,Oxyjulis californica,VRG,0.0000045,3.16,g,mm,TL,RecFIN,0,0,0,0,0,,
 Sharpnose Surfperch,Phanerodon atripes,VRG,0.0000137,2.98,g,mm,TL,RecFIN,0,0,0,0,0,,
-Shortbelly Rockfish,Sebastes Jordani,,,,,,,,,,,,,,
+Shortbelly Rockfish,Sebastes Jordani,,,,g,mm,,,,,,,,,
 Silver Salmon,Oncorhynchus kisutch,,,,,,,,,,,,,,
 Silversides (Family Atherinopsidae),,,,,,,,,,,,,,,
 Soupfin Shark,Galeorhinus galeus,,,,,,,,,,,,,,
