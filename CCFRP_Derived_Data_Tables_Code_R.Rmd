@@ -1,7 +1,7 @@
 ---
 title: "CCFRP Derived Data Table Code for Length and Effort Data"
 author: "Rachel Brooks, Shelby Zeigler, Ryan Fields, Erin Johnston"
-date: "05/30/2024"
+date: "09/06/2025"
 output:
   html_document: default
   pdf_document: default
@@ -54,7 +54,7 @@ fishes.caught.raw = read.csv("Raw_Data/4-Caught Fishes.csv")
 fish.codes = read.csv("Raw_Data/Fish Species.csv")
 
 #Length weight relationships
-length.weight = read.csv("Raw_Data/CCFRP_Biomass_Conversion_2024.csv")
+length.weight = read.csv("Raw_Data/CCFRP_Biomass_Conversion_2025.csv")
 
 #OPC MPA Designation Info
 CCFRP_location_table <- read.csv("Raw_Data/CCFRP_location_table.csv")
@@ -77,6 +77,9 @@ listed to be filtered. User can select specific 'Areas' of interest here
 
 ```{r}
 
+## feedback from Marine Lebrec (CalOOS) on 10/25/2024 - area name mismatch between 'Southeast Farallon Islands' and 'Farallon Islands' and mismatch between 'South Cape Mendocino' and 'Cape Mendocino'.
+## 09/06/2025 - EJ changing label codes to be 'Southeast Farallon Islsands' and 'South Cape Mendocino' to avoid this mismatch
+
 trip.data = trip.data.raw %>%
   select(c(Trip.ID, Area, Month, Day, Year.Automatic)) %>%
   dplyr::rename(Year = Year.Automatic) %>%
@@ -84,8 +87,8 @@ trip.data = trip.data.raw %>%
                                         'FN','BH','AN','PL',
                                         'BL','PB','PC','CP',
                                         'AI','LB','SW','LJ'),
-                       labels = c('Trinidad','Cape Mendocino','Ten Mile',
-                                  'Stewarts Point','Farallon Islands', 
+                       labels = c('Trinidad','South Cape Mendocino','Ten Mile',
+                                  'Stewarts Point','Southeast Farallon Islands', 
                                   'Bodega Head','Ano Nuevo', 'Point Lobos',
                                   'Piedras Blancas','Point Buchon',
                                   'Point Conception','Carrington Point',
@@ -204,7 +207,7 @@ spp_conversions <- data.frame(Species.Code = character(),
 for(j in need_conversion){
   species_dat <- fishes.caught.raw %>%
     mutate(Year = str_sub(Drift.ID, 8, 9)) %>%
-    filter(Year == 23, Species.Code == j) %>%
+    filter(Year %in% c(23, 24), Species.Code == j) %>% ## 2025 changes to Year %in% c(23,24)
     drop_na(Fork.Length..mm., Total.Length..mm.) %>%
     mutate(diff = Total.Length..mm.-Fork.Length..mm.) %>%
     filter(diff >=0)
@@ -242,16 +245,16 @@ fishes.caught.all <- fishes.caught.all_b %>%
   mutate(a = as.numeric(a),
          b = as.numeric(b),
          Length..cm. = case_when(
-    Year %in% c(07:23) ~ Fork.Length..mm./10),
+    Year %in% c(07:24) ~ Fork.Length..mm./10), ## changed these all to 24 in 2025
     Length..cm. = round(Length..cm., digits = 0)) %>%
   mutate(Length..cm. = case_when(
-    Year %in% c(07:23) & 
+    Year %in% c(07:24) & 
       is.na(Length..cm.) & 
       Species.Code %in% dont_need_conversion ~ Total.Length..mm./10,
     TRUE ~ as.numeric(Length..cm.)),
     Length..cm. = round(Length..cm., digits = 0)) %>%
   mutate(Length..cm. = case_when(
-    Year %in% c(07:23) & 
+    Year %in% c(07:24) & 
       is.na(Length..cm.) & 
       Species.Code %in% need_conversion ~ (Total.Length..mm.*a+b)/10,
     TRUE ~ as.numeric(Length..cm.)),
@@ -268,6 +271,15 @@ fishes.caught.all <- fishes.caught.all_b %>%
 
 
 ```{r, eval = F, echo = F}
+
+
+## code to check for NAs in length column in fishes.caught.all
+
+# no_len <- fishes.caught.all %>%
+#   filter(is.na(Length.cm))
+# 
+# check1 <- fishes.caught.all_b %>%
+#   filter(Drift.ID == "AIM1003230302")
 
 ## code to deal with FL and TL in mm - E Johnston 3/28/2024 - First attempt
 # fishes.caught.all = fishes.caught.raw %>%
@@ -480,8 +492,8 @@ length.data_reorder$Total.Angler.Hours <- NULL
 length.data_reorder$Species.Code <- NULL
 
 ### Table export for species length data
-# write.csv(length.data_reorder, file = "2007-2023_CCFRP_derived_length_table.csv",
-#                                                 row.names = FALSE)
+ # write.csv(length.data_reorder, file = "2007-2024_CCFRP_derived_length_table.csv",
+ #                                                 row.names = FALSE)
 
 ```
 
@@ -634,7 +646,7 @@ names(AllFishVars)[names(AllFishVars)=="Site"]<-"MPA_Status"
 
 
 #Export out CSV file with fish data prior to adding in environmental data
-#write.csv(AllFishVars, "CCFRP_AllFishVariables.csv")
+#write.csv(AllFishVars, "CCFRP_AllFishVariables2025.csv")
 
 ```
 
@@ -764,7 +776,7 @@ Reorder the columns of the data set and export final csv
 AllCCFRP <- AllCCFRP[,c(1:11,17:24,16,12:15)]
 
 #Export final dataframe out 
-#write.csv(AllCCFRP, "2007-2023_CCFRP_derived_effort_table.csv",row.names=FALSE)
+#write.csv(AllCCFRP, "2007-2024_CCFRP_derived_effort_table.csv",row.names=FALSE)
 
 ```
 ---
