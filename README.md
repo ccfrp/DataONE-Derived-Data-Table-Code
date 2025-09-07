@@ -1,6 +1,6 @@
 # DataONE-Derived-Data-Table-Code 
 
-### GitHub repository containing data and code accompanying the CCFRP data submission to Ocean Protection Council DataONE Repository (Johnston et al. 2024; https://doi.org/10.25494/P6901R) 
+### GitHub repository containing data and code accompanying the CCFRP data submission to Ocean Protection Council DataONE Repository (Johnston et al. 2025; https://doi.org/10.25494/P6901R) 
 
 #### Erin Johnston, Rachel Brooks, Shelby Ziegler, Nathan Spindel, Richard Starr, Dean Wendt, Benjamin Ruttenberg, Lyall Bellquist, Andre Buchheister, Jennifer Caselle, Jose Marin-Jarrin, Timothy Mulligan, Christina Pasparakis, Brice Semmens, & Scott Hamilton. (2024). Nearshore Fishes Abundance and Distribution Data, California Collaborative Fisheries Research Program (CCFRP). California Ocean Protection Council Data Repository. urn:uuid:c05e2ba2-e927-4d33-9e1d-53d09f260828.
 
