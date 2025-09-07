@@ -28,6 +28,6 @@ Repository contains the following:
 
 	- CCFRP_location_table.csv - Provides GPS coordinates for all of the 500 m x 500 m grid cells that were created for this study;
 
-	- CCFRP_Biomass_Conversion_2023.csv - Provides length-weight and length-length conversion information for biomass calculations;
+	- CCFRP_Biomass_Conversion_2025.csv - Provides length-weight and length-length conversion information for biomass calculations;
 
 
