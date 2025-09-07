@@ -14,7 +14,7 @@ Repository contains the following:
  	 - R markdown script with code used to create derived data tables
  	 - Knitted PDF of R markdown file. 
 
-2. Raw Data: Raw data tables from CCFRP Access Database (2007-2022) used to create derived data tables
+2. Raw Data: Raw data tables from CCFRP Access Database (2007-2024) used to create derived data tables
 
 	- 1-Trip Information.csv - Provides information about each completed sampling trip;
 
