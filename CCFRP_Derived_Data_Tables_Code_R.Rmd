@@ -3,8 +3,8 @@ title: "CCFRP Derived Data Table Code for Length and Effort Data"
 author: "Rachel Brooks, Shelby Zeigler, Ryan Fields, Erin Johnston"
 date: "09/06/2025"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 editor_options: 
   chunk_output_type: console
 ---
