@@ -40,21 +40,21 @@ calculations.
 ```{r}
 
 #1-Trip Information table
-trip.data.raw = read.csv("Raw_Data/1-Trip Information.csv")
+trip.data.raw = read.csv("Raw_Data/2025_CCFRP_Dat/1-Trip Information.csv")
 
 #3-Drift Information Table
 #Included bit to make any blanks change to 'NA'
-drift.data.raw = read.csv("Raw_Data/3-Drift Information.csv", na = c("", "NA")) 
+drift.data.raw = read.csv("Raw_Data/2025_CCFRP_Dat/3-Drift Information.csv", na = c("", "NA")) 
 
 #4-Caught Fishes Table
-fishes.caught.raw = read.csv("Raw_Data/4-Caught Fishes.csv")
+fishes.caught.raw = read.csv("Raw_Data/2025_CCFRP_Dat/4-Caught Fishes.csv")
 
 
 #Fish codes to match species code with common names
-fish.codes = read.csv("Raw_Data/Fish Species.csv")
+fish.codes = read.csv("Raw_Data/2025_CCFRP_Dat/Fish Species.csv")
 
 #Length weight relationships
-length.weight = read.csv("Raw_Data/CCFRP_Biomass_Conversion_2025.csv")
+length.weight = read.csv("Raw_Data/CCFRP_Biomass_Conversion_2026.csv")
 
 #OPC MPA Designation Info
 CCFRP_location_table <- read.csv("Raw_Data/CCFRP_location_table.csv")
@@ -83,11 +83,11 @@ listed to be filtered. User can select specific 'Areas' of interest here
 trip.data = trip.data.raw %>%
   select(c(Trip.ID, Area, Month, Day, Year.Automatic)) %>%
   dplyr::rename(Year = Year.Automatic) %>%
-  mutate(Area = factor(Area, levels = c('TD','CM','TM','SP',
+  mutate(Area = factor(Area, levels = c('TD','CM','TM', 'RR', 'SP',
                                         'FN','BH','AN','PL',
                                         'BL','PB','PC','CP',
                                         'AI','LB','SW','LJ'),
-                       labels = c('Trinidad','South Cape Mendocino','Ten Mile',
+                       labels = c('Trinidad','South Cape Mendocino','Ten Mile', 'Reading Rock',
                                   'Stewarts Point','Southeast Farallon Islands', 
                                   'Bodega Head','Ano Nuevo', 'Point Lobos',
                                   'Piedras Blancas','Point Buchon',
@@ -98,7 +98,7 @@ trip.data = trip.data.raw %>%
   droplevels()
 
 #Define cells to be excluded from analysis
-excluded.cells = c("TDRR", "CMMM", "CMRR", "TMMM", "TMRR",
+excluded.cells = c("TDRR", "CMMM", "CMRR", "TMMM", "TMRR", "RRMM", "RRRR",
                    "FNMM","FNRR","SPMM", "SPRR", "BHMM", "BHRR",
                    "ANMM", "ANRR","PLMM","PLMN", "PLMO","PLRR",
                    "BLMM", "BLRR","PBMM", "PBRR",
@@ -207,7 +207,7 @@ spp_conversions <- data.frame(Species.Code = character(),
 for(j in need_conversion){
   species_dat <- fishes.caught.raw %>%
     mutate(Year = str_sub(Drift.ID, 8, 9)) %>%
-    filter(Year %in% c(23, 24), Species.Code == j) %>% ## 2025 changes to Year %in% c(23,24)
+    filter(Year %in% c(23, 24, 25), Species.Code == j) %>% ## 2026 changes to Year %in% c(23,24, 25)
     drop_na(Fork.Length..mm., Total.Length..mm.) %>%
     mutate(diff = Total.Length..mm.-Fork.Length..mm.) %>%
     filter(diff >=0)
@@ -245,16 +245,16 @@ fishes.caught.all <- fishes.caught.all_b %>%
   mutate(a = as.numeric(a),
          b = as.numeric(b),
          Length..cm. = case_when(
-    Year %in% c(07:24) ~ Fork.Length..mm./10), ## changed these all to 24 in 2025
+    Year %in% c(07:25) ~ Fork.Length..mm./10), ## changed these all to 25 in 2026
     Length..cm. = round(Length..cm., digits = 0)) %>%
   mutate(Length..cm. = case_when(
-    Year %in% c(07:24) & 
+    Year %in% c(07:25) & 
       is.na(Length..cm.) & 
       Species.Code %in% dont_need_conversion ~ Total.Length..mm./10,
     TRUE ~ as.numeric(Length..cm.)),
     Length..cm. = round(Length..cm., digits = 0)) %>%
   mutate(Length..cm. = case_when(
-    Year %in% c(07:24) & 
+    Year %in% c(07:25) & 
       is.na(Length..cm.) & 
       Species.Code %in% need_conversion ~ (Total.Length..mm.*a+b)/10,
     TRUE ~ as.numeric(Length..cm.)),
@@ -492,8 +492,8 @@ length.data_reorder$Total.Angler.Hours <- NULL
 length.data_reorder$Species.Code <- NULL
 
 ### Table export for species length data
-# write.csv(length.data_reorder, file = "2007-2024_CCFRP_derived_length_table.csv",
-#                                                   row.names = FALSE)
+# write.csv(length.data_reorder, file = "2007-2025_CCFRP_derived_length_table.csv",
+ #                                                  row.names = FALSE)
 
 ```
 
@@ -501,7 +501,7 @@ BPUE Calculations
 
 1) Start with the subset of fishes 'fishes.caught.cpue'
 
-2) Caculate biomass in Kg by using length weight relationships: 
+2) Calculate biomass in Kg by using length weight relationships: 
    compilation of data from VRG and PISCO tables -> source listed in 
    table (Updated by Rachel & Shelby 02/2022)
 
@@ -646,7 +646,7 @@ names(AllFishVars)[names(AllFishVars)=="Site"]<-"MPA_Status"
 
 
 #Export out CSV file with fish data prior to adding in environmental data
-#write.csv(AllFishVars, "CCFRP_AllFishVariables2025.csv")
+#write.csv(AllFishVars, "CCFRP_AllFishVariables2026.csv")
 
 ```
 
@@ -776,7 +776,7 @@ Reorder the columns of the data set and export final csv
 AllCCFRP <- AllCCFRP[,c(1:11,17:24,16,12:15)]
 
 #Export final dataframe out 
-#write.csv(AllCCFRP, "2007-2024_CCFRP_derived_effort_table.csv",row.names=FALSE)
+#write.csv(AllCCFRP, "2007-2025_CCFRP_derived_effort_table.csv",row.names=FALSE)
 
 ```
 ---

@@ -1,0 +1,18 @@
+Area code,Name,MPA Designation,Monitoring Group,Region,Full Name,Island or Mainland,Area of MPA (km^2),Implementation,Nearest Port,Distance from Nearest Port (km),North Latitude (DD),South Latitude (DD),Median Latitude (DD),Cluster or Solitary MPA,Cluster Area (km^2)
+AI,Anacapa Island,SMR/SMCA,UCSB,South,Anacapa Island State Marine Reserve & State Marine Conservation Area,Island,29.91/18.91,2003,Channel Islands Harbor,19.24,34.0833,34.00685,34.045075,Cluster,48.82
+AN,Año Nuevo,SMR,MLML,Central,Año Nuevo State Marine Reserve,Mainland,28.88,2007,Santa Cruz,39.86,37.166667,37.078333,37.1225,Single,28.88
+BH,Bodega Head,SMR,BML,North,Bodega Head State Marine Reserve,Mainland,24.19,2010,Bodega Bay,10.50,38.335,38.3,38.3175,Cluster,56.07
+BL,Piedras Blancas,SMR,Cal Poly,Central,Piedras Blancas State Marine Reserve,Mainland,27.04,2007,Morro Bay,60.71,35.714167,35.6525,35.683334,Cluster,49.93
+CM,South Cape Mendocino,SMR,HSU,North,South Cape Mendocino State Marine Reserve,Mainland,23.52,2012,Eureka,54.49,40.435,40.415,40.425,Single,23.52
+CP,Carrington Point,SMR,UCSB,South,Carrington Point State Marine Reserve,Island,33.10,2003,Santa Barbara,52.48,34.066667,34.008333,34.0375,Single,33.10
+FN,SE Farallon Islands,SMR,MLML,North,Southeast Farallon Islands State Marine Reserve,Island,13.88,2010,El Granada,63.99,37.7100139,37.6750944,37.6918919,Cluster,47.42
+LB,Laguna Beach,SMR,SIO,South,Laguna Beach State Marine Reserve,Mainland,17.40,2012,Newport Beach,9.54,33.553733,33.503517,33.528625,Cluster,25.41
+LJ,South La Jolla,SMR,SIO,South,South La Jolla State Marine Reserve,Mainland,33.10,2012,Quivira Basin (San Diego),10.27,32.826217,32.799083,32.81265,Cluster,39.47
+PB,Point Buchon,SMR,Cal Poly,Central,Point Buchon State Marine Reserve,Mainland,17.30,2007,Morro Bay,20.13,35.254167,35.183333,35.21875,Cluster,48.87
+PC,Point Conception,SMR,UCSB,South,Point Conception State Marine Reserve,Mainland,58.33,2012,Santa Barbara,52.48,34.45,34.39935,34.424675,Single,58.33
+PL,Point Lobos,SMR,MLML,Central,Point Lobos State Marine Reserve,Mainland,14.24,2007,Monterey,26.03,36.528333,36.481333,36.504833,Cluster,36.18
+RR,Reading Rock,SMR/SMCA,HSU,North,Reading Rock State Marine Reserve and State Marine Conservation Area,Mainland,,2012,Crescent City,,,,,,
+SP,Stewarts Point,SMR/SMCA,BML,North,Stewarts Point State Marine Reserve & State Marine Conservation Area,Mainland,62.24/3.13,2010,Bodega Bay,59.61,38.675,38.593333,38.634167,Cluster,65.37
+SW,Swamis,SMCA,SIO,South,Swamis State Marine Conservation Area,Mainland,58.33,2012,Oceanside,22.33,33.049833,33.0001805,33.024917,Single,58.33
+TD,Trinidad,N/A,HSU,North,Trinidad Reference Area,Mainland,N/A,N/A,Trinidad,N/A,N/A,N/A,N/A,N/A,N/A
+TM,Ten Mile,SMR,HSU,North,Ten Mile State Marine Reserve,Mainland,30.95,2012,Fort Bragg (Noyo River),20.12,39.615,39.555,39.585,Cluster,40.11
